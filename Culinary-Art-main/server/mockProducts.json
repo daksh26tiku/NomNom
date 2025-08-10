@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Black Pepper",
+    "description": "Aromatic black pepper, perfect for adding spice and depth to your dishes.",
+    "price": 75,
+    "quantityInStock": 150,
+    "category": "Spices",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpvxgXDCXTSDpuEskjm6EI0EsoWfForuY6pw&s",
+    "unit": "50 grams"
+  },
+  {
+    "name": "Ground Beef",
+    "description": "High-quality ground beef, ideal for a variety of hearty meals.",
+    "price": 1020,
+    "quantityInStock": 150,
+    "category": "Fish and Meat",
+    "imageUrl": "https://www.doctorkiltz.com/wp-content/uploads/2022/11/AdobeStock_190288567-scaled.jpeg",
+    "unit": "kg"
+  },
+  {
+    "name": "Cocoa Powder",
+    "description": "Premium quality cocoa powder, perfect for baking and making delicious chocolate desserts.",
+    "price": 600,
+    "quantityInStock": 150,
+    "category": "Baking",
+    "imageUrl": "https://cdn.consumerlab.com/images/answers/4433_image.jpg",
+    "unit": "500 grams"
+  },
+  {
+    "name": "Cilantro Leaves",
+    "description": "Fresh cilantro leaves, ideal for garnishing and adding flavor to various dishes.",
+    "price": 30,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://organiclivestockandcrops.org/wp-content/uploads/2018/06/organic-coriander.jpg",
+    "unit": "100 grams"
+  },
+  {
+    "name": "Ruhi Fish",
+    "description": "Fresh and delicious Ruhi fish, perfect for your seafood dishes.",
+    "price": 414,
+    "quantityInStock": 150,
+    "category": "Fish and Meat",
+    "imageUrl": "https://m.media-amazon.com/images/I/61mWqtEy8XL._AC_UF894,1000_QL80_.jpg",
+    "unit": "kilogram"
+  },
+  {
+    "name": "Fennel Seeds",
+    "description": "Aromatic fennel seeds, perfect for adding flavor to your dishes.",
+    "price": 45,
+    "quantityInStock": 150,
+    "category": "Spices",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:1071/1*3mIAJdwQioI70GwCdlv9fA.png",
+    "unit": "100 gm"
+  },
+  {
+    "name": "Organic Avocado",
+    "description": "Fresh organic avocados perfect for salads and guacamole. nice",
+    "price": 1300,
+    "quantityInStock": 200,
+    "category": "Fruits",
+    "imageUrl": "https://img.freepik.com/premium-photo/avocado-flat-lay-yellow-background_140266-73.jpg",
+    "unit": "kg"
+  },
+  {
+    "name": "Almond Milk",
+    "description": "Delicious and nutritious almond milk with no added sugar.",
+    "price": 240,
+    "quantityInStock": 150,
+    "category": "Dairy",
+    "imageUrl": "https://us.123rf.com/450wm/hamara/hamara2107/hamara210700075/171753960-bottles-with-probiotics-and-prebiotics-dairy-drink-on-light-purple-background-bio-yogurt-with-useful.jpg?ver=6",
+    "unit": "liter"
+  },
+  {
+    "name": "Romaine Lettuce",
+    "description": "Crisp and fresh romaine lettuce, perfect for salads and sandwiches.",
+    "price": 450,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://www.freshco.com.sg/cdn/shop/products/RomainLettuce2_800x.jpg?v=1586698584",
+    "unit": "500 grams"
+  },
+  {
+    "name": "Mayonnaise",
+    "description": "Creamy mayonnaise, perfect for sandwiches and salads.",
+    "price": 195,
+    "quantityInStock": 150,
+    "category": "Condiments",
+    "imageUrl": "https://zucchini.co.ke/cdn/shop/files/TOP05393.jpg?v=1702550752",
+    "unit": "250 ml"
+  },
+  {
+    "name": "Coriander Powder",
+    "description": "Makes your dishes spicier.",
+    "price": 440,
+    "quantityInStock": 10,
+    "category": "Spices",
+    "imageUrl": "https://png.pngtree.com/thumb_back/fw800/background/20240613/pngtree-coriander-seeds-and-powdered-coriander-on-green-background-image_15749696.jpg",
+    "unit": "kg"
+  },
+  {
+    "name": "Garlic",
+    "description": "Fresh garlic cloves, essential for adding flavor to a variety of dishes.",
+    "price": 168,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://veggies.my/cdn/shop/products/GarlicCloves.jpg?v=1585472534",
+    "unit": "kilogram"
+  },
+  {
+    "name": "Parmesan Cheese",
+    "description": "Authentic Parmesan cheese, perfect for grating over pasta and salads.",
+    "price": 350,
+    "quantityInStock": 150,
+    "category": "Dairy",
+    "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/16242262/2418280655.jpg",
+    "unit": "100 gm"
+  },
+  {
+    "name": "Worcestershire Sauce",
+    "description": "Classic Worcestershire sauce, perfect for enhancing the flavor of your dishes.",
+    "price": 315,
+    "quantityInStock": 150,
+    "category": "Condiments",
+    "imageUrl": "https://api.americangarden.us/wp-content/uploads/2024/02/worcertshire-sauce.png",
+    "unit": "290 ml"
+  },
+  {
+    "name": "Lemon",
+    "description": "Fresh and juicy lemons, perfect for adding zest and flavor to your dishes.",
+    "price": 107,
+    "quantityInStock": 150,
+    "category": "Fruits",
+    "imageUrl": "https://oasisonline.com.au/cdn/shop/products/lemons_1000x.jpg?v=1613482486",
+    "unit": "kilogram"
+  },
+  {
+    "name": "Basil Leaves",
+    "description": "Aromatic basil leaves, perfect for enhancing the flavor of Italian dishes.",
+    "price": 60,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://gabbarfarms.com/cdn/shop/products/Basil-Italian_600x.jpg?v=1634624225",
+    "unit": "100 grams"
+  },
+  {
+    "name": "Fresh Strawberry",
+    "description": "Fresh organic strawberries, perfect for salads and smoothies.",
+    "price": 1950,
+    "quantityInStock": 40,
+    "category": "Fruits",
+    "imageUrl": "https://st5.depositphotos.com/16122460/64787/i/450/depositphotos_647876164-stock-photo-stack-fresh-strawberries-light-blue.jpg",
+    "unit": "kg"
+  },
+  {
+    "name": "Red Bell Pepper",
+    "description": "Crisp red bell peppers, perfect for adding color and flavor to your dishes.",
+    "price": 159,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/red-capsicum-12-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54850&q=best&v=1&m=400&webp=1",
+    "unit": "300 grams"
+  },
+  {
+    "name": "Yellow Bell Pepper",
+    "description": "Bright yellow bell peppers, great for enhancing the visual appeal and taste of your meals.",
+    "price": 159,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/yellow-capsicum-15-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D16552&q=best&v=1&m=400&m=400&webp=1",
+    "unit": "300 grams"
+  },
+  {
+    "name": "Basmati Rice",
+    "description": "Premium quality basmati rice, ideal for all dishes.",
+    "price": 68,
+    "quantityInStock": 60,
+    "category": "Vegetables",
+    "imageUrl": "https://t4.ftcdn.net/jpg/02/14/62/13/360_F_214621356_X8scxpnwYwR3Je01CvH4YtMxF1a2b7Jz.jpg",
+    "unit": "kg"
+  },
+  {
+    "name": "Dark Chocolate",
+    "description": "Rich and smooth dark chocolate with 70% cocoa.",
+    "price": 320,
+    "quantityInStock": 100,
+    "category": "Baking",
+    "imageUrl": "https://t4.ftcdn.net/jpg/06/63/75/11/360_F_663751143_YX57fIWvBHO7chvGpIK5IVS82DiUpUov.jpg",
+    "unit": "kg"
+  },
+  {
+    "name": "Chili Powder",
+    "description": "High-quality chili powder, perfect for adding spice and heat to your dishes.",
+    "price": 140,
+    "quantityInStock": 150,
+    "category": "Spices",
+    "imageUrl": "https://friday-bd.com/wp-content/uploads/2021/09/red-chilli-powder-500x500-1.jpg",
+    "unit": "200 grams"
+  },
+  {
+    "name": "Mint Leaves",
+    "description": "Fresh mint leaves, perfect for adding a refreshing taste to dishes and drinks.",
+    "price": 20,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://www.kenshodaily.com/cdn/shop/products/MintLeaves.png?v=1672742949",
+    "unit": "100 grams"
+  },
+  {
+    "name": "Cucumber",
+    "description": "Fresh and crisp cucumbers, perfect for salads and refreshing snacks.",
+    "price": 98,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/deshi-shosha-local-cucumber-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64359&q=best&v=1&m=400&webp=1",
+    "unit": "kilogram"
+  },
+  {
+    "name": "Lettuce Leaves",
+    "description": "Fresh lettuce leaves, perfect for salads and sandwiches.",
+    "price": 45,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/lettuce-leaves-10-gm-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28797&q=low&v=1&m=400&webp=1",
+    "unit": "100 grams"
+  },
+  {
+    "name": "Milk",
+    "description": "Fresh and creamy milk, perfect for baking and adding a rich flavor to your recipes.",
+    "price": 80,
+    "quantityInStock": 150,
+    "category": "Dairy",
+    "imageUrl": "https://pikwizard.com/pw/medium/015354e170e97c77820b9a95a75f5353.jpg",
+    "unit": "Litre"
+  },
+  {
+    "name": "Ginger",
+    "description": "Aromatic ginger root, ideal for adding flavor and heat to a variety of dishes.",
+    "price": 229,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/thai-ada-ginger-thai-12-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40654&q=best&v=1&m=400&webp=1",
+    "unit": "250 grams"
+  },
+  {
+    "name": "Free-Range Eggs",
+    "description": "Organic free-range eggs from happy chickens.",
+    "price": 140,
+    "quantityInStock": 120,
+    "category": "Dairy",
+    "imageUrl": "https://img.freepik.com/premium-photo/white-eggs-egg-yolk-pink-background_106006-5287.jpg",
+    "unit": "dozen"
+  },
+  {
+    "name": "Coriander Seeds",
+    "description": "Aromatic coriander seeds, perfect for adding flavor to your dishes.",
+    "price": 500,
+    "quantityInStock": 150,
+    "category": "Spices",
+    "imageUrl": "https://m.media-amazon.com/images/I/51gxhouTzHL._AC_UF1000,1000_QL80_.jpg",
+    "unit": "kg"
+  },
+  {
+    "name": "Green Bell Pepper",
+    "description": "Fresh green bell peppers, perfect for salads and stir-fries.",
+    "price": 99,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/green-capsicum-15-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28574&q=low&v=1&m=400&webp=1",
+    "unit": "300 grams"
+  },
+  {
+    "name": "Pancetta",
+    "description": "High-quality pancetta, ideal for adding rich flavor to a variety of dishes.",
+    "price": 1070,
+    "quantityInStock": 150,
+    "category": "Fish and Meat",
+    "imageUrl": "https://salumipasini.com/wp-content/uploads/Pancetta_Arrotolata_0116IJ-4.jpg",
+    "unit": "kilogram"
+  },
+  {
+    "name": "Fresh Tomato",
+    "description": "Perfect for you salads and curry",
+    "price": 110,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/red-tomato-25-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64361&q=best&v=1",
+    "unit": "kg"
+  },
+  {
+    "name": "Chicken",
+    "description": "Fresh and high-quality chicken, perfect for a variety of recipes.",
+    "price": 190,
+    "quantityInStock": 150,
+    "category": "Fish and Meat",
+    "imageUrl": "https://www.daylesford.com/media/catalog/product/1/5/15025920_organic-whole-free-range-chicken.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+    "unit": "kg"
+  },
+  {
+    "name": "Turmeric Powder",
+    "description": "High-quality turmeric powder, perfect for adding color and flavor to your dishes.",
+    "price": 125,
+    "quantityInStock": 150,
+    "category": "Spices",
+    "imageUrl": "https://origin.club/media/catalog/product/cache/86eaafd287624d270d87c663dd3976d5/t/u/turmeric_powder_1.jpg",
+    "unit": "200 grams"
+  },
+  {
+    "name": "Carrot",
+    "description": "Crunchy and fresh carrots, perfect for salads, stews, and snacking.",
+    "price": 110,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-kc25pb94dz/images/stencil/1280x1280/products/271/762/Carrot__40927.1634584458.jpg?c=2",
+    "unit": "kilogram"
+  },
+  {
+    "name": "Spring Onion",
+    "description": "Fresh spring onions, great for garnishing and adding a mild onion flavor to dishes.",
+    "price": 65,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/peyaj-pata-spring-onion-12-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18770&q=low&v=1&m=400&webp=1",
+    "unit": "120 grams"
+  },
+  {
+    "name": "Onion",
+    "description": "Fresh red onions, perfect for adding a punch of flavor to your dishes.",
+    "price": 120,
+    "quantityInStock": 150,
+    "category": "Vegetables",
+    "imageUrl": "https://chaldn.com/_mpimage/lal-peyaj-onion-red-imported-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69767&q=best&v=1&m=400&webp=1",
+    "unit": "kilogram"
+  }
+]

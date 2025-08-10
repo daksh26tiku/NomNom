@@ -1,0 +1,2247 @@
+[
+  {
+    "name": "Sticky Toffee pudding",
+    "category": "Desserts",
+    "instructions": [
+      "Place chopped dates and baking soda in a bowl. Pour boiling water over them and let sit for 10 minutes. Mash dates with a fork until smooth.",
+      "Preheat oven to 350°F (175°C). Grease an 8x8 inch baking dish.",
+      " In a large bowl, cream together butter and granulated sugar until light and fluffy. Beat in eggs, one at a time, then stir in vanilla extract.",
+      "Mix in the mashed date mixture. Add flour, baking powder, and salt, stirring until just combined.",
+      "Pour the batter into the prepared baking dish and bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+      " In a saucepan over medium heat, combine brown sugar, butter, and heavy cream. Bring to a boil, then reduce heat and simmer for 5 minutes, stirring occasionally. Remove from heat and stir in vanilla extract.",
+      "Pour warm toffee sauce over the baked pudding. Let it soak in for a few minutes. Serve warm with extra toffee sauce drizzled on top."
+    ],
+    "keywords": ["British", "dates"],
+    "ingredients": [
+      {
+        "name": "dates",
+        "quantity": "1 cup",
+        "_id": "66a7f690cd3fb745398ad836"
+      },
+      {
+        "name": "baking powder",
+        "quantity": "2 tsp",
+        "_id": "66a7f690cd3fb745398ad837"
+      },
+      {
+        "name": "butter",
+        "quantity": "1 stick",
+        "_id": "66a7f690cd3fb745398ad838"
+      },
+      {
+        "name": "sugar",
+        "quantity": "3/4 cup",
+        "_id": "66a7f690cd3fb745398ad839"
+      },
+      {
+        "name": "eggs",
+        "quantity": "2 large",
+        "_id": "66a7f690cd3fb745398ad83a"
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": "1 tsp",
+        "_id": "66a7f690cd3fb745398ad83b"
+      },
+      {
+        "name": "all-purpose flour",
+        "quantity": "1 cup",
+        "_id": "66a7f690cd3fb745398ad83c"
+      },
+      {
+        "name": "salt",
+        "quantity": "1/2 tsp",
+        "_id": "66a7f690cd3fb745398ad83d"
+      },
+      {
+        "name": "brown sugar",
+        "quantity": "1 cup",
+        "_id": "66a7f690cd3fb745398ad83e"
+      },
+      {
+        "name": "heavy cream",
+        "quantity": "1/2 cup",
+        "_id": "66a7f690cd3fb745398ad83f"
+      }
+    ],
+
+    "time": "45 mins",
+    "servings": 8,
+    "difficulty": "Hard",
+    "imageUrl": "https://thebananadiaries.com/wp-content/uploads/2021/12/vegan-sticky-toffee-pudding-recipe_6494.jpg",
+    "createdBy": {
+      "_id": "66a7e62acd3fb745398ad70c",
+      "username": "Aboni",
+      "email": "aboni.rounak@gmail.com"
+    },
+    "likesCount": 1,
+    "comments": [],
+    "isPopular": true,
+    "likedUsers": ["66a2ab1eb4523fd107043673"]
+  },
+  {
+    "_id": "66a8dc4fa4f49a3d5f74240b",
+    "name": "Salmon Wellington",
+    "category": "Lunch",
+    "instructions": [
+      "Preheat the oven to 425°F (220°C).",
+      "In a pan over medium heat, melt butter. Add the garlic and onions, cooking until translucent, about 5 minutes.",
+      "Add the spinach, salt, and pepper, cooking until spinach is wilted, about 1 minute.",
+      "Add the breadcrumbs, cream cheese, parmesan, and dill, stirring until mixture is evenly combined. Remove from heat and set aside.",
+      "On a cutting board, smooth out the sheet of puff pastry. Place the salmon in the middle of the pastry and season both sides with salt and pepper.",
+      "Place several spoonfuls of the spinach mixture on top of the salmon, smoothing it out so that it does not spill over the sides.",
+      "Fold the edges of the puff pastry over the salmon and spinach, starting with the longer sides and then the shorter ends. Trim any excess pastry from the ends, then fold the ends on top. Flip the puff pastry-wrapped salmon over and transfer for a baking sheet lined with parchment paper.",
+      "Brush the beaten egg on the top and sides of the pastry. Score the top of the pastry with a knife, cutting shallow diagonal lines to create a crosshatch pattern.",
+      "Brush the top again with the egg wash.",
+      "Bake for 20-25 minutes, until pastry is golden brown.",
+      "Slice, then serve!",
+      "Enjoy!"
+    ],
+    "keywords": ["Salmon", "Puff", "Pastry"],
+    "ingredients": [
+      {
+        "name": "salmon fillet",
+        "quantity": "1",
+        "_id": "66a8dc4fa4f49a3d5f74240c"
+      },
+      {
+        "name": "butter",
+        "quantity": "2tbsp",
+        "_id": "66a8dc4fa4f49a3d5f74240d"
+      },
+      {
+        "name": " cloves garlic, chopped",
+        "quantity": "2",
+        "_id": "66a8dc4fa4f49a3d5f74240e"
+      },
+      {
+        "name": "medium onion, chopped",
+        "quantity": "1",
+        "_id": "66a8dc4fa4f49a3d5f74240f"
+      },
+      {
+        "name": " fresh spinach",
+        "quantity": "5 oz ",
+        "_id": "66a8dc4fa4f49a3d5f742410"
+      },
+      {
+        "name": "bread crumbs",
+        "quantity": "1cup",
+        "_id": "66a8dc4fa4f49a3d5f742411"
+      },
+      {
+        "name": "cream cheese",
+        "quantity": "4 oz",
+        "_id": "66a8dc4fa4f49a3d5f742412"
+      },
+      {
+        "name": "egg, beaten",
+        "quantity": "1",
+        "_id": "66a8dc4fa4f49a3d5f742413"
+      },
+      {
+        "name": "sheet puff pastry, thawed to room",
+        "quantity": "1",
+        "_id": "66a8dc4fa4f49a3d5f742414"
+      },
+      {
+        "name": "fresh dill, chopped",
+        "quantity": "2tbsp",
+        "_id": "66a8dc4fa4f49a3d5f742415"
+      },
+      {
+        "name": "shredded parmesan cheese",
+        "quantity": "1 cup",
+        "_id": "66a8dc4fa4f49a3d5f742416"
+      },
+      { "name": "salt", "quantity": "1tsp", "_id": "66a8dc4fa4f49a3d5f742417" },
+      {
+        "name": "pepper",
+        "quantity": "1tsp",
+        "_id": "66a8dc4fa4f49a3d5f742418"
+      }
+    ],
+    "time": "25 min",
+    "servings": 6,
+    "difficulty": "Medium",
+    "imageUrl": "https://www.foodandwine.com/thmb/4w6-rOagBEDpviT7kJH2UWUh0i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Salmon-Wellington-FT-RECIPE0623-86e581cb70f142eaa2cf568fb4c64d0b.jpg",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "likesCount": 3,
+    "comments": [
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "Yum",
+        "_id": "66eb3111ab84513613247b6a"
+      }
+    ],
+
+    "isPopular": true,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "669678649940fc2513256fe0",
+      "66a4f9169b52fadca622c23f"
+    ]
+  },
+  {
+    "_id": "66abb2cfcdfe52ce353c442f",
+    "name": "Rice Paper Spring Rolls",
+    "category": "Entrees",
+    "instructions": [
+      "Cook the vermicelli noodles according to the package instructions. Drain and rinse under cold water, then set aside.",
+      "Prepare the shrimp, vegetables, and herbs. Arrange them in separate bowls for easy access during assembly.",
+      "In a small bowl, combine hoisin sauce, peanut butter, water, soy sauce, rice vinegar, sugar, and minced garlic. Stir until smooth. Adjust the consistency with more water if needed. Garnish with crushed peanuts or chili flakes if desired.",
+      "Fill a large bowl with warm water. Dip a rice paper sheet into the water for about 5-10 seconds until it becomes soft and pliable. Be careful not to over-soak it, as it will become too fragile to handle.",
+      "Lay the softened rice paper on a clean, flat surface. Place a few shrimp halves near the bottom third of the sheet. Add a small amount of vermicelli noodles, lettuce, herbs, carrots, cucumbers, and bean sprouts.",
+      "Fold the bottom edge of the rice paper over the filling, then fold in the sides. Continue rolling tightly but gently until the spring roll is fully enclosed. Repeat with the remaining ingredients.",
+      "Serve the spring rolls with the dipping sauce on the side. They can be enjoyed as is or sliced in half for easier dipping.",
+      "Enjoy your fresh and flavorful Vietnamese Rice Paper Spring Rolls! "
+    ],
+    "keywords": ["Vietnamese", "Rolls"],
+    "ingredients": [
+      {
+        "name": "rice paper sheets",
+        "quantity": "10",
+        "_id": "66abb2cfcdfe52ce353c4430"
+      },
+      {
+        "name": "shrimp, cooked, peeled, and deveined",
+        "quantity": "200g",
+        "_id": "66abb2cfcdfe52ce353c4431"
+      },
+      {
+        "name": "vermicelli noodles, cooked according to package instructions",
+        "quantity": "100g",
+        "_id": "66abb2cfcdfe52ce353c4432"
+      },
+      {
+        "name": "cup lettuce leaves, shredded",
+        "quantity": "1 cup",
+        "_id": "66abb2cfcdfe52ce353c4433"
+      },
+      {
+        "name": "fresh mint leaves",
+        "quantity": "1/2 cup",
+        "_id": "66abb2cfcdfe52ce353c4434"
+      },
+      {
+        "name": "fresh cilantro leaves",
+        "quantity": "1/2 cup",
+        "_id": "66abb2cfcdfe52ce353c4435"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "1/2 cup",
+        "_id": "66abb2cfcdfe52ce353c4436"
+      },
+      {
+        "name": " carrot, julienned",
+        "quantity": "1/2 cup",
+        "_id": "66abb2cfcdfe52ce353c4437"
+      },
+      {
+        "name": "cucumber, julienned",
+        "quantity": "1/2 cup",
+        "_id": "66abb2cfcdfe52ce353c4438"
+      },
+      {
+        "name": "bean sprouts",
+        "quantity": "1/2 cup",
+        "_id": "66abb2cfcdfe52ce353c4439"
+      },
+      {
+        "name": "hoisin sauce",
+        "quantity": "1/4 cup",
+        "_id": "66abb2cfcdfe52ce353c443a"
+      },
+      {
+        "name": "peanut butter",
+        "quantity": "1/4 cup",
+        "_id": "66abb2cfcdfe52ce353c443b"
+      },
+      {
+        "name": "water",
+        "quantity": "1/4 cup",
+        "_id": "66abb2cfcdfe52ce353c443c"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "1tbsp",
+        "_id": "66abb2cfcdfe52ce353c443d"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1tsp",
+        "_id": "66abb2cfcdfe52ce353c443e"
+      },
+      {
+        "name": "garlic, minced",
+        "quantity": "1 clove",
+        "_id": "66abb2cfcdfe52ce353c443f"
+      },
+      {
+        "name": "rice vinegar",
+        "quantity": "1tbsp",
+        "_id": "66abb2cfcdfe52ce353c4440"
+      }
+    ],
+
+    "time": "5 mins",
+    "servings": 10,
+    "difficulty": "Medium",
+    "imageUrl": "https://shortgirltallorder.com/wp-content/uploads/2020/08/tofu-fresh-rolls-square.jpg",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "likesCount": 0,
+    "comments": [],
+    "isPopular": true,
+    "likedUsers": []
+  },
+  {
+    "_id": "66abd1d54fafaf0f03dd0d46",
+    "name": "Mint Mojito",
+    "category": "Drinks",
+    "instructions": [
+      "Mix sugar, mint leaves and lime juice finely.",
+      "Pour the mixture in a tall glass with ice.",
+      "Add the soda before serving.",
+      "Use finely sliced lemons for decoration and enjoy!"
+    ],
+    "keywords": ["Refreshing"],
+    "ingredients": [
+      {
+        "name": "lime juice",
+        "quantity": "1 tbsp",
+        "_id": "66abd1d54fafaf0f03dd0d47"
+      },
+      {
+        "name": "soda",
+        "quantity": "200 ml",
+        "_id": "66abd1d54fafaf0f03dd0d48"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1.5 tbsp",
+        "_id": "66abd1d54fafaf0f03dd0d49"
+      },
+      {
+        "name": "mint leaves",
+        "quantity": "10-15",
+        "_id": "66abd1d54fafaf0f03dd0d4a"
+      }
+    ],
+
+    "time": "0 mins",
+    "servings": 1,
+    "difficulty": "Easy",
+    "imageUrl": "https://www.deliciousmagazine.co.uk/wp-content/uploads/2014/01/Mojito-768x960.jpg",
+    "createdBy": {
+      "_id": "66abb03e4fafaf0f03dd0b30",
+      "username": "theQueen",
+      "email": "rhaenyra@gmail.com"
+    },
+    "likesCount": 3,
+    "comments": [],
+
+    "isPopular": false,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "669678649940fc2513256fe0",
+      "66a4f9169b52fadca622c23f"
+    ]
+  },
+  {
+    "_id": "66aa8099141a02638acc287e",
+    "name": "Chocolate Milkshake",
+    "category": "Drinks",
+    "instructions": [
+      "Blend condensed milk, vanilla ice cream, milk, cocoa powder and ice together until smooth.",
+      "Pour the milkshake into two tall glasses.",
+      "Top with whipped cream and garnish with milk chocolate shavings"
+    ],
+    "keywords": ["summer", "chocolate"],
+    "ingredients": [
+      {
+        "name": "vanilla ice cream",
+        "quantity": "1 cup",
+        "_id": "66aa8099141a02638acc287f"
+      },
+      {
+        "name": "milk",
+        "quantity": "1 cup",
+        "_id": "66aa8099141a02638acc2880"
+      },
+      {
+        "name": "cocoa powder",
+        "quantity": "2 tbsp",
+        "_id": "66aa8099141a02638acc2881"
+      },
+      {
+        "name": "milk chocolate ",
+        "quantity": "50 gms",
+        "_id": "66aa8099141a02638acc2882"
+      },
+      {
+        "name": "whipped cream",
+        "quantity": "1/2 cup",
+        "_id": "66aa8099141a02638acc2883"
+      },
+      {
+        "name": "ice",
+        "quantity": "6 cubes",
+        "_id": "66aa8099141a02638acc2884"
+      },
+      {
+        "name": "condensed milk",
+        "quantity": "1/4 cup",
+        "_id": "66aa8099141a02638acc2885"
+      }
+    ],
+
+    "time": "0 mins",
+    "servings": 2,
+    "difficulty": "Easy",
+    "imageUrl": "https://i.pinimg.com/564x/1c/e9/36/1ce936c0e8e66cd1b75ab0c540ce9a2f.jpg",
+    "createdBy": {
+      "_id": "66a7e62acd3fb745398ad70c",
+      "username": "Aboni",
+      "email": "aboni.rounak@gmail.com"
+    },
+    "likesCount": 1,
+    "comments": [
+      {
+        "commentedBy": "66abb03e4fafaf0f03dd0b30",
+        "comment": "yummm",
+        "_id": "66b9d4e0f735e6c8b2938576"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66abb03e4fafaf0f03dd0b30"]
+  },
+  {
+    "_id": "66a5078a3c5af99fc497e201",
+    "name": "Caesar Salad",
+    "category": "Sides",
+    "instructions": [
+      "Make the dressing by whisking together garlic, mustard, lemon juice, Worcestershire sauce, and mayonnaise.",
+      "Toss romaine lettuce with dressing, croutons, and parmesan cheese.",
+      "Serve immediately."
+    ],
+    "keywords": ["Salad", "Classic", "Healthy"],
+    "ingredients": [
+      {
+        "_id": "67fa2bbc6ac5026904c44bbc",
+        "name": "Romaine Lettuce",
+        "quantity": "1 head, chopped"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bbd",
+        "name": "Croutons",
+        "quantity": "1 cup"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bbe",
+        "name": "Parmesan Cheese",
+        "quantity": "1/2 cup, grated"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bbf",
+        "name": "Garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bc0",
+        "name": "Dijon Mustard",
+        "quantity": "1 tsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bc1",
+        "name": "Lemon Juice",
+        "quantity": "2 tbsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bc2",
+        "name": "Worcestershire Sauce",
+        "quantity": "1 tsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bc3",
+        "name": "Mayonnaise",
+        "quantity": "1/4 cup"
+      }
+    ],
+
+    "time": "5 mins",
+    "servings": 4,
+    "difficulty": "Easy",
+    "imageUrl": "https://img.freepik.com/premium-imageUrl/classic-caesar-salad_72772-18392.jpg",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "likesCount": 1,
+    "comments": [
+      {
+        "commentedBy": "66a7f6f8cd3fb745398ad8d4",
+        "comment": "very bland :(",
+        "_id": "66aba7654fafaf0f03dd06d7"
+      },
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "yum",
+        "_id": "66e1c26e5ce3767b299b8ce2"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66a4f9169b52fadca622c23f"]
+  },
+  {
+    "_id": "66a82c2a1e87fbd66fb505fd",
+    "name": "Aloo Chaat",
+    "category": "Sides",
+    "instructions": [
+      "Heat vegetable oil in a large pan over medium heat.",
+      "Add cubed potatoes and fry until they are golden and crispy. Remove from heat and place in a large mixing bowl.",
+      "Sprinkle cumin seeds, chaat masala, red chili powder, roasted cumin powder, and black salt over the potatoes. Mix well to coat the potatoes evenly with the spices.",
+      "Add chopped onions, tomatoes, cucumbers, and green chilies (if using) to the bowl with the potatoes. Mix well.",
+      "Drizzle tamarind chutney and green chutney over the mixture. Toss everything together to combine.",
+      "Garnish with chopped fresh cilantro, pomegranate seeds, and sev if using",
+      "Serve immediately with lemon wedges on the side for squeezing over the top."
+    ],
+    "keywords": ["indian", "spicy"],
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "4 boiled",
+        "_id": "66a82c2a1e87fbd66fb505fe"
+      },
+      {
+        "name": "vegetable oil",
+        "quantity": "2 tbsp",
+        "_id": "66a82c2a1e87fbd66fb505ff"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 large",
+        "_id": "66a82c2a1e87fbd66fb50600"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "_id": "66a82c2a1e87fbd66fb50601"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp",
+        "_id": "66a82c2a1e87fbd66fb50602"
+      },
+      { "name": "tomato", "quantity": "2", "_id": "66a82c2a1e87fbd66fb50603" },
+      {
+        "name": "yogurt",
+        "quantity": "1/2 cup",
+        "_id": "66a82c2a1e87fbd66fb50604"
+      },
+      {
+        "name": "chaat masala",
+        "quantity": "1 tbsp",
+        "_id": "66a82c2a1e87fbd66fb50605"
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1/2 tsp",
+        "_id": "66a82c2a1e87fbd66fb50606"
+      },
+      {
+        "name": "cumin powder",
+        "quantity": "1/2 tsp",
+        "_id": "66a82c2a1e87fbd66fb50607"
+      },
+      {
+        "name": "chili powder",
+        "quantity": "1 tsp",
+        "_id": "66a82c2a1e87fbd66fb50608"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "_id": "66a82c2a1e87fbd66fb50609"
+      }
+    ],
+
+    "time": "10 mins",
+    "servings": 4,
+    "difficulty": "Easy",
+    "imageUrl": "https://myfoodstory.com/wp-content/uploads/2019/10/Easy-Aloo-Chaat-Delhi-Style-2.jpg",
+    "createdBy": {
+      "_id": "66a7f6f8cd3fb745398ad8d4",
+      "username": "curryNspice",
+      "email": "liliput@gmail.com"
+    },
+    "likesCount": 0,
+    "comments": [
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "yummy",
+        "_id": "66ab91834fafaf0f03dd01b6"
+      },
+      {
+        "commentedBy": "66a2ab1eb4523fd107043673",
+        "comment": "yummy",
+        "_id": "66ab91b64fafaf0f03dd01c6"
+      },
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "not yummy",
+        "_id": "66ab91ef4fafaf0f03dd020b"
+      },
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "yay",
+        "_id": "66ae8f5e27d786ad38a37858"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": []
+  },
+  {
+    "_id": "66a7e923cd3fb745398ad716",
+    "name": "Strawberry Frosted Donuts ",
+    "category": "Desserts",
+    "instructions": [
+      "Mash strawberries into a puree.",
+      "Heat oil in a pan over medium heat.",
+      "Use a small cutter to make a hole in each biscuit dough piece.",
+      "Fry dough pieces in hot oil until golden brown (about 1-2 minutes per side). Drain on paper towels.",
+      "Mix powdered sugar, milk, and strawberry puree until smooth.",
+      "Dip cooled donuts into the strawberry frosting."
+    ],
+    "keywords": ["Sweet", "pink"],
+    "ingredients": [
+      {
+        "name": "strawberry",
+        "quantity": "1 cup",
+        "_id": "66a7e923cd3fb745398ad717"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 cup",
+        "_id": "66a7e923cd3fb745398ad718"
+      },
+      {
+        "name": "milk",
+        "quantity": "2 tbsp",
+        "_id": "66a7e923cd3fb745398ad719"
+      },
+      {
+        "name": "biscuit dough",
+        "quantity": "1 can",
+        "_id": "66a7e923cd3fb745398ad71a"
+      },
+      {
+        "name": "oil",
+        "quantity": "for frying",
+        "_id": "66a7e923cd3fb745398ad71b"
+      }
+    ],
+
+    "time": "10 mins",
+    "servings": 8,
+    "difficulty": "Medium",
+    "imageUrl": "https://images.unsplash.com/imageUrl-1643312769686-00759ba75d7d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "createdBy": {
+      "_id": "66a7e62acd3fb745398ad70c",
+      "username": "Aboni",
+      "email": "aboni.rounak@gmail.com"
+    },
+    "likesCount": 1,
+    "comments": [
+      {
+        "commentedBy": "66a7f6f8cd3fb745398ad8d4",
+        "comment": "onek moja hoise",
+        "_id": "66abac3f4fafaf0f03dd08eb"
+      },
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "yum",
+        "_id": "66e28b125b60f759cc261a39"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66a4f9169b52fadca622c23f"]
+  },
+  {
+    "_id": "66a4fefd3c5af99fc48e642e",
+    "name": "Spaghetti Carbonara",
+    "category": "Entrees",
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a separate pan, cook pancetta until crispy.",
+      "Beat eggs in a bowl and mix in grated Parmesan cheese.",
+      "Drain spaghetti and return to pot. Remove from heat.",
+      "Quickly mix in the egg and cheese mixture with the hot pasta, stirring constantly to prevent the eggs from scrambling.",
+      "Add cooked pancetta and mix well.",
+      "Season with black pepper and serve immediately."
+    ],
+    "keywords": ["pasta", "Italian", "quick meal"],
+    "ingredients": [
+      {
+        "_id": "67fa2bbc6ac5026904c44bdd",
+        "name": "Spaghetti",
+        "quantity": "400g"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bde",
+        "name": "Pancetta",
+        "quantity": "150g"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bdf",
+        "name": "Eggs",
+        "quantity": "2 large"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44be0",
+        "name": "Parmesan cheese",
+        "quantity": "1 cup"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44be1",
+        "name": "Black pepper",
+        "quantity": "to taste"
+      }
+    ],
+
+    "time": "15 mins",
+    "servings": 4,
+    "difficulty": "Easy",
+    "imageUrl": "https://images.unsplash.com/imageUrl-1574885014162-92e4f12928db?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "comments": [
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "looks kinda good",
+        "_id": "66eaf5b55bc5d62200d5ca78"
+      }
+    ],
+    "likesCount": 1,
+    "isPopular": false,
+    "likedUsers": ["669678649940fc2513256fe0"]
+  },
+  {
+    "_id": "66a500e23c5af99fc4907ba0",
+    "name": "Avocado Toast",
+    "category": "Breakfast",
+    "instructions": [
+      "Toast the bread slices until golden brown.",
+      "Cut the avocado in half, remove the pit, and scoop out the flesh.",
+      "Mash the avocado with a fork and season with salt, pepper, and lime juice.",
+      "Spread the mashed avocado evenly over the toasted bread.",
+      "Top with sliced tomatoes and sprinkle with red pepper flakes.",
+      "Garnish with fresh cilantro and serve immediately."
+    ],
+    "keywords": ["avocado", "toast", "breakfast"],
+    "ingredients": [
+      {
+        "_id": "67fa2bbc6ac5026904c44be3",
+        "name": "Bread",
+        "quantity": "2 slices"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44be4",
+        "name": "Avocado",
+        "quantity": "1 ripe"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44be5",
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44be6",
+        "name": "Black pepper",
+        "quantity": "to taste"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44be7",
+        "name": "Lime juice",
+        "quantity": "1 tsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44be8",
+        "name": "Tomato",
+        "quantity": "1 small, sliced"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44be9",
+        "name": "Red pepper flakes",
+        "quantity": "a pinch"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bea",
+        "name": "Cilantro",
+        "quantity": "for garnish"
+      }
+    ],
+
+    "time": "5 mins",
+    "servings": 1,
+    "difficulty": "Easy",
+    "imageUrl": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/Avocado-Toast-Recipe.jpg",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "likesCount": 3,
+    "comments": [
+      {
+        "commentedBy": "669678649940fc2513256fe0",
+        "comment": "wow so good",
+        "_id": "66e0e610eb6cf71751f2d357"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "669678649940fc2513256fe0",
+      "66abb03e4fafaf0f03dd0b30"
+    ]
+  },
+  {
+    "_id": "66e5e6e78004955aa36fabe2",
+    "name": "pancake",
+    "category": "Breakfast",
+    "instructions": ["mix eggs and flour", "fry pancake"],
+    "keywords": ["sweet"],
+    "ingredients": [
+      { "name": "egg", "quantity": "1", "_id": "66e5e6e78004955aa36fabe3" },
+      {
+        "name": "flour",
+        "quantity": "1 cup",
+        "_id": "66e5e6e78004955aa36fabe4"
+      }
+    ],
+
+    "time": "10 mins",
+    "servings": 2,
+    "difficulty": "Easy",
+    "imageUrl": "https://www.onceuponachef.com/images/2009/08/pancakes-01.jpg",
+    "createdBy": {
+      "_id": "66e5e5af8004955aa36fabc9",
+      "username": "tajjjj",
+      "email": "tajwar@gmail.com"
+    },
+    "comments": [],
+    "isPopular": true,
+    "likedUsers": ["66a4f9169b52fadca622c23f"],
+    "likesCount": 1
+  },
+  {
+    "_id": "66a7ee6dcd3fb745398ad729",
+    "name": "Chocolate fudge Brownie",
+    "category": "Desserts",
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease an 8x8 inch baking dish.",
+      "Melt the butter in a microwave-safe bowl.",
+      "Stir in sugar, eggs, and vanilla extract.",
+      "Add cocoa powder, flour, salt, and baking powder. Mix until well combined.",
+      "Pour the batter into the greased baking dish and spread evenly. Bake for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+      "Let the brownies cool before cutting into squares.",
+      "Enjoy your delicious and easy brownies!"
+    ],
+    "keywords": ["Sweet"],
+    "ingredients": [
+      {
+        "name": "butter",
+        "quantity": "1/2 cup",
+        "_id": "66a7ee6dcd3fb745398ad72a"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 cup",
+        "_id": "66a7ee6dcd3fb745398ad72b"
+      },
+      {
+        "name": "eggs",
+        "quantity": "2 large",
+        "_id": "66a7ee6dcd3fb745398ad72c"
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": "1 tsp",
+        "_id": "66a7ee6dcd3fb745398ad72d"
+      },
+      {
+        "name": "unsweetened cocoa powder",
+        "quantity": "1/3 cup",
+        "_id": "66a7ee6dcd3fb745398ad72e"
+      },
+      {
+        "name": "all-purpose flour",
+        "quantity": "1/2 cup",
+        "_id": "66a7ee6dcd3fb745398ad72f"
+      },
+      {
+        "name": "salt",
+        "quantity": "1/4 tsp",
+        "_id": "66a7ee6dcd3fb745398ad730"
+      },
+      {
+        "name": "baking powder",
+        "quantity": "1/4 tsp",
+        "_id": "66a7ee6dcd3fb745398ad731"
+      }
+    ],
+
+    "time": "25 mins",
+    "servings": 8,
+    "difficulty": "Medium",
+    "imageUrl": "https://images.unsplash.com/imageUrl-1589218436045-ee320057f443?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "createdBy": {
+      "_id": "66a7e62acd3fb745398ad70c",
+      "username": "Aboni",
+      "email": "aboni.rounak@gmail.com"
+    },
+    "likesCount": 1,
+    "comments": [
+      {
+        "commentedBy": "66abb03e4fafaf0f03dd0b30",
+        "comment": "ok",
+        "_id": "66ae3c0e109be15dc2955eab"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66a4f9169b52fadca622c23f"]
+  },
+  {
+    "_id": "66aa9a233c5af99fc41f6fa9",
+    "name": "Ice Cream Sandwiches",
+    "category": "Desserts",
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a medium bowl, whisk together flour, cocoa powder, baking powder, and salt.",
+      "In another bowl, melt butter and chocolate together, stirring until smooth.",
+      "Add sugar to the melted chocolate mixture and whisk until well combined.",
+      "Add eggs one at a time, mixing well after each addition.",
+      "Stir in vanilla extract.",
+      "Gradually add dry ingredients to the wet ingredients, mixing until just combined.",
+      "Spread the batter evenly in a greased 9x13-inch baking pan.",
+      "Bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean.",
+      "Let the brownies cool completely in the pan.",
+      "Cut brownies into squares and sandwich a scoop of ice cream between two brownie squares.",
+      "Serve immediately or wrap in plastic wrap and freeze for later."
+    ],
+    "keywords": ["brownies", "ice cream", "sandwiches"],
+    "ingredients": [
+      {
+        "_id": "67fa2bbc6ac5026904c44bf7",
+        "name": "All-purpose flour",
+        "quantity": "1 cup"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bf8",
+        "name": "Cocoa powder",
+        "quantity": "1/2 cup"
+      }
+    ],
+
+    "time": "28 mins",
+    "servings": 8,
+    "difficulty": "Easy",
+    "imageUrl": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2014/12/brownie-ice-cream-sandwiches.jpg",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "likesCount": 0,
+    "comments": [
+      {
+        "_id": "67fa2bbc6ac5026904c44bf9",
+        "commentedBy": "66a7e62acd3fb745398ad70c",
+        "comment": "This cake is amazing! So rich and chocolatey."
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bfa",
+        "commentedBy": "66a8ef00b4bdf5932d4f91c8",
+        "comment": "yummy."
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bfb",
+        "commentedBy": "66a7f6f8cd3fb745398ad8d4",
+        "comment": "i dont like it"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": []
+  },
+  {
+    "_id": "66ae50ca3c5af99fc4e6673b",
+    "name": "Mutton Biryani",
+    "category": "Lunch",
+    "instructions": [
+      "Wash the mutton pieces thoroughly.",
+      "Marinate the mutton with yogurt, ginger-garlic paste, and spices.",
+      "Soak basmati rice in water for 30 minutes.",
+      "Heat oil in a pan and fry onions until golden brown.",
+      "Add marinated mutton to the pan and cook until tender.",
+      "Boil the rice with whole spices until 70% cooked.",
+      "Layer the rice and mutton in a pot.",
+      "Garnish with fried onions, mint, and saffron milk.",
+      "Seal the pot and cook on low heat (dum) for 30 minutes.",
+      "Serve hot with raita."
+    ],
+    "keywords": ["spicy", "Indian", "rice"],
+    "ingredients": [
+      {
+        "_id": "67fa2bbc6ac5026904c44bfc",
+        "name": "Mutton",
+        "quantity": "1 kg"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bfd",
+        "name": "Basmati Rice",
+        "quantity": "500 g"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bfe",
+        "name": "Yogurt",
+        "quantity": "200 g"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44bff",
+        "name": "Onions",
+        "quantity": "3 large"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c00",
+        "name": "Ginger Garlic Paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c01",
+        "name": "Garam Masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c02",
+        "name": "Saffron",
+        "quantity": "a pinch"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c03",
+        "name": "Mint Leaves",
+        "quantity": "a handful"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c04",
+        "name": "Cooking Oil",
+        "quantity": "1/2 cup"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c05",
+        "name": "Salt",
+        "quantity": "to taste"
+      }
+    ],
+
+    "time": "1 hour",
+    "servings": 6,
+    "difficulty": "Medium",
+    "imageUrl": "https://theforkedspoon.com/wp-content/uploads/2020/06/biryani-14.jpg",
+    "createdBy": {
+      "_id": "669678649940fc2513256fe0",
+      "username": "Ahmed Awsaf",
+      "email": "oneawsaf@gmail.com"
+    },
+    "likesCount": 4,
+    "comments": [
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "profile picture er kaj ta kobe shesh hobe bondhu?",
+        "_id": "66ae79e2b60830601596621c"
+      },
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "hole janaiyo",
+        "_id": "66ae7a89b60830601596622c"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": [
+      "66a2aad9b4523fd10704366f",
+      "66abb03e4fafaf0f03dd0b30",
+      "66a7e62acd3fb745398ad70c",
+      "66e1d9ac6408b0a153221bcc",
+      "66a4f9169b52fadca622c23f"
+    ]
+  },
+  {
+    "_id": "66a7f4d8cd3fb745398ad7f8",
+    "name": "Strawberry Short Cake",
+    "category": "Desserts",
+    "instructions": [
+      "In a bowl, combine sliced strawberries and 1/4 cup granulated sugar. Let sit for at least 30 minutes to macerate.",
+      "Preheat oven to 425°F (220°C).",
+      "In a large bowl, mix flour, 1/4 cup granulated sugar, baking powder, and salt. Cut in the cold butter until the mixture resembles coarse crumbs.",
+      "In a small bowl, whisk together milk and egg. Add to the flour mixture and stir until just combined.",
+      "Drop dough by large spoonfuls onto a baking sheet. Bake for 15-20 minutes or until golden brown. Cool on a wire rack.",
+      "In a chilled bowl, beat heavy cream, powdered sugar, and vanilla extract until soft peaks form.",
+      "Split each shortcake in half. Layer with strawberries and whipped cream. Place the top half of the shortcake on top and add more strawberries and whipped cream if desired."
+    ],
+    "keywords": ["cake", "british"],
+    "ingredients": [
+      {
+        "name": "All-purpose flour",
+        "quantity": "1 cup",
+        "_id": "66a7f4d8cd3fb745398ad7f9"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 cup",
+        "_id": "66a7f4d8cd3fb745398ad7fa"
+      },
+      {
+        "name": "butter",
+        "quantity": "1/2 cup melted",
+        "_id": "66a7f4d8cd3fb745398ad7fb"
+      },
+      { "name": "eggs", "quantity": "2", "_id": "66a7f4d8cd3fb745398ad7fc" },
+      {
+        "name": "vanilla extract",
+        "quantity": "1 tsp",
+        "_id": "66a7f4d8cd3fb745398ad7fd"
+      },
+      {
+        "name": "stawberry",
+        "quantity": "1 cup sliced",
+        "_id": "66a7f4d8cd3fb745398ad7fe"
+      },
+      {
+        "name": "whipping cream",
+        "quantity": "1 cup",
+        "_id": "66a7f4d8cd3fb745398ad7ff"
+      }
+    ],
+
+    "time": "25 mins",
+    "servings": 5,
+    "difficulty": "Medium",
+    "imageUrl": "https://static.onecms.io/wp-content/uploads/sites/19/2016/04/08/strawberry-dream-cake-sl-2000.jpg",
+    "createdBy": {
+      "_id": "66a7e62acd3fb745398ad70c",
+      "username": "Aboni",
+      "email": "aboni.rounak@gmail.com"
+    },
+    "likesCount": 1,
+    "comments": [],
+    "isPopular": false,
+    "likedUsers": ["66a4f9169b52fadca622c23f"]
+  },
+  {
+    "_id": "66a69a41c949f32f0d0a3410",
+    "name": "Lemon Ice Tea",
+    "category": "Drinks",
+    "instructions": [
+      "Boil Water: Bring 2 cups of water to a boil.",
+      "Brew Tea: Add tea bags to boiling water. Steep for 5 minutes.",
+      "Sweeten Tea: Remove tea bags and stir in sugar until dissolved.",
+      "Cool Tea: Let the tea cool to room temperature.",
+      "Add Lemon: Slice the lemon and squeeze the juice from half of it into the tea",
+      "Serve: Fill a glass with ice cubes, pour the tea over the ice, and add a lemon slice for garnish."
+    ],
+    "keywords": ["tea", "lemon", "refreshing"],
+    "ingredients": [
+      {
+        "name": "water",
+        "quantity": "2 cups",
+        "_id": "66a69a41c949f32f0d0a3411"
+      },
+      {
+        "name": "tea bags",
+        "quantity": "2",
+        "_id": "66a69a41c949f32f0d0a3412"
+      },
+      {
+        "name": "sugar",
+        "quantity": "2 tbsp",
+        "_id": "66a69a41c949f32f0d0a3413"
+      },
+      {
+        "name": "lemon",
+        "quantity": "1 full",
+        "_id": "66a69a41c949f32f0d0a3414"
+      },
+      {
+        "name": "ice",
+        "quantity": "12 cubes",
+        "_id": "66a69a41c949f32f0d0a3415"
+      }
+    ],
+
+    "time": "0 mins",
+    "servings": 2,
+    "difficulty": "Easy",
+    "imageUrl": "https://images.unsplash.com/imageUrl-1556679343-c7306c1976bc?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "likesCount": 2,
+    "comments": [
+      {
+        "commentedBy": "66a7f6f8cd3fb745398ad8d4",
+        "comment": "so easy and refreshing!!",
+        "_id": "66aba7b54fafaf0f03dd0722"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66a7e62acd3fb745398ad70c", "66abb03e4fafaf0f03dd0b30"]
+  },
+  {
+    "_id": "66a927253e23c574569b9011",
+    "name": "Kiwi Strawberry Popsicles",
+    "category": "Desserts",
+    "instructions": [
+      "Cut kiwis and strawberries into thin slices. Remove kiwi skin, and discard strawberry tops.",
+      "Fill the popsicle mold with the fruit.",
+      "Fill in the gaps of air with water.",
+      "Freeze the popsicles for at least 5 hours.",
+      "Take the frozen popsicles out of the ice molds and enjoy!"
+    ],
+    "keywords": ["Summer", "Refreshing"],
+    "ingredients": [
+      {
+        "name": "strawberry",
+        "quantity": "1 cup",
+        "_id": "66a927253e23c574569b9012"
+      },
+      {
+        "name": "kiwi",
+        "quantity": "1 cup",
+        "_id": "66a927253e23c574569b9013"
+      },
+      {
+        "name": "water",
+        "quantity": "2 cup",
+        "_id": "66a927253e23c574569b9014"
+      }
+    ],
+    "time": "0 mins",
+    "servings": 6,
+    "difficulty": "Easy",
+    "imageUrl": "https://www.zespri.com/content/dam/zespri/sg/recipe/masthead/zespri-rubyred-kiwi-popsicle-mobile.jpg/_jcr_content/renditions/mobile.png",
+    "createdBy": {
+      "_id": "66a7f6f8cd3fb745398ad8d4",
+      "username": "curryNspice",
+      "email": "liliput@gmail.com"
+    },
+    "likesCount": 2,
+    "comments": [
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "refreshing!",
+        "_id": "66ab94de4fafaf0f03dd0364"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66a4f9169b52fadca622c23f", "66a2ab1eb4523fd107043673"]
+  },
+  {
+    "_id": "66a7f1c8cd3fb745398ad74f",
+    "name": "Raspberry Trifle",
+    "category": "Desserts",
+    "instructions": [
+      "Cut the pound cake into 1-inch cubes.",
+      "Place half of the cake cubes at the bottom of a trifle dish or individual serving glasses.",
+      "Spread half of the raspberry jam over the cake cubes.",
+      "Spoon half of the vanilla pudding over the jam layer.",
+      "Sprinkle half of the fresh raspberries over the pudding.",
+      "Repeat the layers with the remaining cake cubes, jam, pudding, and raspberries.",
+      "Finish with a layer of whipped cream."
+    ],
+    "keywords": ["Sweet"],
+    "ingredients": [
+      {
+        "name": "sponge cake",
+        "quantity": "450g",
+        "_id": "66a7f1c8cd3fb745398ad750"
+      },
+      {
+        "name": "fresh raspberries",
+        "quantity": "2 cups",
+        "_id": "66a7f1c8cd3fb745398ad751"
+      },
+      {
+        "name": "vanilla pudding",
+        "quantity": "2 cups",
+        "_id": "66a7f1c8cd3fb745398ad752"
+      },
+      {
+        "name": "whipped cream",
+        "quantity": "1 cup",
+        "_id": "66a7f1c8cd3fb745398ad753"
+      },
+      {
+        "name": "raspberry jam",
+        "quantity": "1 cup",
+        "_id": "66a7f1c8cd3fb745398ad754"
+      }
+    ],
+
+    "time": "0 mins",
+    "servings": 6,
+    "difficulty": "Easy",
+    "imageUrl": "https://myfoodbook.com.au/sites/default/files/styles/card_c_molo_hp/public/recipe_imageUrl/Epic-trifle_3286.jpg",
+    "createdBy": {
+      "_id": "66a7e62acd3fb745398ad70c",
+      "username": "Aboni",
+      "email": "aboni.rounak@gmail.com"
+    },
+    "likesCount": 1,
+    "comments": [
+      {
+        "commentedBy": "66abb03e4fafaf0f03dd0b30",
+        "comment": "yummmy",
+        "_id": "66ae9fed01ef098b37e9eaa5"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66a4f9169b52fadca622c23f"]
+  },
+  {
+    "_id": "66aba5304fafaf0f03dd05d6",
+    "name": "Shakshouka",
+    "category": "Breakfast",
+    "instructions": [
+      "Heat olive oil in a large skillet over medium heat.",
+      "Add the chopped onion and bell peppers. Sauté until softened, about 5-7 minutes.",
+      "Stir in the minced garlic, ground cumin, smoked paprika, and cayenne pepper. Cook for another 1-2 minutes until fragrant.",
+      "Pour in the diced tomatoes and their juice. Season with salt and pepper to taste. Simmer for 10-15 minutes, stirring occasionally, until the sauce thickens.",
+      " Use a spoon to make 6 small wells in the sauce. Crack an egg into each well.",
+      "Reduce heat to low, cover the skillet, and let the eggs cook for 8-10 minutes or until the whites are set and the yolks are cooked to your liking.",
+      "Sprinkle crumbled feta cheese and chopped cilantro or parsley over the top.",
+      "Serve hot with crusty bread or pita on the side."
+    ],
+    "keywords": ["eggs", "spicy"],
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "quantity": "2 tbsp",
+        "_id": "66aba5304fafaf0f03dd05d7"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 large, finely chopped",
+        "_id": "66aba5304fafaf0f03dd05d8"
+      },
+      {
+        "name": "red bell pepper",
+        "quantity": "1 large, finely chopped",
+        "_id": "66aba5304fafaf0f03dd05d9"
+      },
+      {
+        "name": "garlic",
+        "quantity": "5 cloves, minced",
+        "_id": "66aba5304fafaf0f03dd05da"
+      },
+      {
+        "name": "cumin powder",
+        "quantity": "1 tsp",
+        "_id": "66aba5304fafaf0f03dd05db"
+      },
+      {
+        "name": "chili powder",
+        "quantity": "1 tsp",
+        "_id": "66aba5304fafaf0f03dd05dc"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2 cup, diced",
+        "_id": "66aba5304fafaf0f03dd05dd"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "_id": "66aba5304fafaf0f03dd05de"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "to taste",
+        "_id": "66aba5304fafaf0f03dd05df"
+      },
+      {
+        "name": "feta cheese",
+        "quantity": "1/4 cup, crumbled",
+        "_id": "66aba5304fafaf0f03dd05e0"
+      },
+      { "name": "eggs", "quantity": "6", "_id": "66aba5304fafaf0f03dd05e1" }
+    ],
+
+    "time": "25 mins",
+    "servings": 5,
+    "difficulty": "Medium",
+    "imageUrl": "https://cookieandkate.com/images/2019/02/best-shakshuka-recipe-3.jpg",
+    "createdBy": {
+      "_id": "66a7f6f8cd3fb745398ad8d4",
+      "username": "curryNspice",
+      "email": "liliput@gmail.com"
+    },
+    "likesCount": 6,
+    "comments": [
+      {
+        "commentedBy": "66e0e0fdead183ef1a0ff7e9",
+        "comment": "11",
+        "_id": "66e0e11aead183ef1a0ff89f"
+      },
+      {
+        "commentedBy": "66abb03e4fafaf0f03dd0b30",
+        "comment": "moja",
+        "_id": "66e1e352e99793a98e0f350a"
+      },
+      {
+        "commentedBy": "66ebb831eb8536a62cd75547",
+        "comment": "yum",
+        "_id": "66ebb8d8eb8536a62cd756a8"
+      }
+    ],
+
+    "isPopular": true,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "66abb03e4fafaf0f03dd0b30",
+      "66a4f9169b52fadca622c23f",
+      "66e1a1633ec6c9951a5c1584",
+      "669678649940fc2513256fe0",
+      "66ebb831eb8536a62cd75547"
+    ]
+  },
+  {
+    "_id": "66abb1f44fafaf0f03dd0b36",
+    "name": "Egg Muffins",
+    "category": "Breakfast",
+    "instructions": [
+      "Preheat the oven to 350 degrees F (175 degrees C). Grease a 12-cup muffin tin with cooking spray.",
+      "Place bell peppers and green onions into a large bowl. Add eggs, milk, garlic powder, onion powder, salt, and pepper. Sprinkle Cheddar cheese into the bowl and whisk until incorporated. Pour mixture equally into the prepared muffin cups.",
+      "Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, about 30 minutes. Let cool slightly before serving.  Recipe Tips"
+    ],
+    "keywords": ["eggs", "light"],
+    "ingredients": [
+      {
+        "name": "green bell pepper",
+        "quantity": "1 large, chopped",
+        "_id": "66abb1f44fafaf0f03dd0b37"
+      },
+      {
+        "name": "red bell pepper",
+        "quantity": "1 large, chopped",
+        "_id": "66abb1f44fafaf0f03dd0b38"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 cup, diced",
+        "_id": "66abb1f44fafaf0f03dd0b39"
+      },
+      {
+        "name": "garlic powder",
+        "quantity": "1 tsp",
+        "_id": "66abb1f44fafaf0f03dd0b3a"
+      },
+      {
+        "name": "eggs",
+        "quantity": "4 large",
+        "_id": "66abb1f44fafaf0f03dd0b3b"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "_id": "66abb1f44fafaf0f03dd0b3c"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "to taste",
+        "_id": "66abb1f44fafaf0f03dd0b3d"
+      }
+    ],
+
+    "time": "15 mins",
+    "servings": 5,
+    "difficulty": "Easy",
+    "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/egg-muffins-1.jpg",
+    "createdBy": {
+      "_id": "66abb03e4fafaf0f03dd0b30",
+      "username": "theQueen",
+      "email": "rhaenyra@gmail.com"
+    },
+    "likesCount": 3,
+    "comments": [
+      {
+        "commentedBy": "66abb03e4fafaf0f03dd0b30",
+        "comment": "pofrg",
+        "_id": "66abe0714fafaf0f03dd1131"
+      },
+      {
+        "commentedBy": "66a7e62acd3fb745398ad70c",
+        "comment": "best breakfast",
+        "_id": "66ba47ddf735e6c8b2938bb8"
+      },
+      {
+        "commentedBy": "66e0e0fdead183ef1a0ff7e9",
+        "comment": "sdas",
+        "_id": "66e0e14bead183ef1a0ff928"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "669678649940fc2513256fe0",
+      "66a4f9169b52fadca622c23f"
+    ]
+  },
+  {
+    "_id": "66aa65f6141a02638acc248e",
+    "name": "Chettinad Fish Fry",
+    "category": "Entrees",
+    "instructions": [
+      "Place shallots, garlic, cumin seeds, fennel seeds, black peppercorns, ground turmeric, ground coriander, chilly powder, and salt in the bowl of a small food processor. Process until a paste forms. Add a little amount of water if needed.",
+      "Place the cleaned fish pieces in a bowl. Rub with the marinade. Marinate for 30 minutes in the refrigerator.",
+      "Heat oil in a pan over medium-high heat. ",
+      "Place the fish pieces in the pan. Shallow fry until done. Serve with rice and tomato and onion salad."
+    ],
+    "keywords": ["fish", "indian"],
+    "ingredients": [
+      {
+        "name": "Onion",
+        "quantity": "4 medium",
+        "_id": "66aa65f6141a02638acc248f"
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 clove",
+        "_id": "66aa65f6141a02638acc2490"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1/2 tsp",
+        "_id": "66aa65f6141a02638acc2491"
+      },
+      {
+        "name": "fennel seeds",
+        "quantity": "1/2 tsp",
+        "_id": "66aa65f6141a02638acc2492"
+      },
+      {
+        "name": "black peppercorns",
+        "quantity": "1/2 tsp",
+        "_id": "66aa65f6141a02638acc2493"
+      },
+      {
+        "name": "tumeric powder",
+        "quantity": "1/2 tsp",
+        "_id": "66aa65f6141a02638acc2494"
+      },
+      {
+        "name": "chili powder",
+        "quantity": "1 tsp",
+        "_id": "66aa65f6141a02638acc2495"
+      },
+      {
+        "name": "Ruhi Fish",
+        "quantity": "4 pcs",
+        "_id": "66aa65f6141a02638acc2496"
+      },
+      { "name": "oil", "quantity": "3 tbsp", "_id": "66aa65f6141a02638acc2497" }
+    ],
+
+    "time": "10 mins",
+    "servings": 4,
+    "difficulty": "Easy",
+    "imageUrl": "https://nishkitchen.com/wp-content/uploads/2015/04/Chettinad-fish-fry-1B.jpg",
+    "createdBy": {
+      "_id": "66a7f6f8cd3fb745398ad8d4",
+      "username": "curryNspice",
+      "email": "liliput@gmail.com"
+    },
+    "likesCount": 3,
+    "comments": [
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "khub moja!",
+        "_id": "66ab94504fafaf0f03dd0264"
+      },
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "khub moja!",
+        "_id": "66ab94554fafaf0f03dd0271"
+      },
+      {
+        "commentedBy": "66e5e5af8004955aa36fabc9",
+        "comment": "maas",
+        "_id": "66e5e75a8004955aa36facfc"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "66a4f9169b52fadca622c23f",
+      "66e5e5af8004955aa36fabc9"
+    ]
+  },
+  {
+    "_id": "66ab9af7faab2c39c3e5b34a",
+    "name": "Chocolate Berry Charlotte",
+    "category": "Desserts",
+    "instructions": [
+      "Preheat the oven to 350˚F (180˚C). Line 3 baking sheets (work in batches if necessary) with parchment paper and grease with nonstick spray.",
+      "Make the ladyfingers: In a large bowl, beat the egg whites and cream of tartar with an electric hand mixer until foamy. Gradually add ¼ cup sugar while continuing to beat until stiff peaks form.",
+      "In a medium bowl, beat together the egg yolks and remaining ½ cup sugar until thick and pale in color, about 3 minutes. Gently fold the yolks into egg white mixture with a rubber spatula. Sift in the flour and salt and fold to incorporate. Transfer the batter to a piping bag or zip-top bag fitted with a large round tip.",
+      "Release the bottom from a 9-inch springform pan and set the ring in the center of a prepared baking sheet. Starting at the center of the ring and working your way outward, pipe the batter in a spiral pattern, about 1 centimeter thick, leaving a ½-inch border around the edge. Remove the ring. With the remaining batter, pipe 40 3-inch (10-centimeter) long by 1-inch (2½-centimeter) wide cookies onto the remaining 2 prepared baking sheet.",
+      "Bake the spiral and cookies for 15-17 minutes, until lightly golden around the edges. Do not allow to get too dark. Let cool completely.",
+      "Make the chocolate mousse: In a large bowl, beat the cold heavy cream with an electric hand mixer until soft peaks form. Add the sugar and beat to incorporate.",
+      "In a medium bowl, pour the hot heavy cream over the chocolate. Stir with a rubber spatula until melted and smooth.",
+      "Fold the chocolate mixture into the whipped cream until incorporated.",
+      "Set the spiral cake base on the bottom of the springform pan and attach the ring. There should be a small gap between the cake and the ring mold. Line the gap on the inside edge of the ring with the ladyfingers, flat sides facing in. You want a snug fit so use as many ladyfingers as needed.",
+      "Pour the chocolate mousse into the center and smooth in an even layer. Chill until set, at least 4 hours in the refrigerator or about 2 hours in the freezer.",
+      "Garnish the charlotte with blackberries, raspberries, chocolate shavings, and mint sprigs. Release the springform and tie a ribbon around the outside of the charlotte.",
+      "Remove the ribbon before slicing and serving. Refrigerate any leftovers for up to 2 days.",
+      "Enjoy!"
+    ],
+    "keywords": ["Dessert", "Chocolate", "Berry "],
+    "ingredients": [
+      { "name": "eggs", "quantity": "6", "_id": "66ab9af7faab2c39c3e5b34b" },
+      {
+        "name": "cream of tartar",
+        "quantity": "¼ teaspoon",
+        "_id": "66ab9af7faab2c39c3e5b34c"
+      },
+      {
+        "name": "granulated sugar",
+        "quantity": "¾ cup",
+        "_id": "66ab9af7faab2c39c3e5b34d"
+      },
+      {
+        "name": "all purpose flour",
+        "quantity": "1 ¼ cups",
+        "_id": "66ab9af7faab2c39c3e5b34e"
+      },
+      {
+        "name": " kosher salt",
+        "quantity": "¼ teaspoon",
+        "_id": "66ab9af7faab2c39c3e5b34f"
+      },
+      {
+        "name": "heavy cream cold",
+        "quantity": "3 cups",
+        "_id": "66ab9af7faab2c39c3e5b350"
+      },
+      {
+        "name": "heavy cream",
+        "quantity": "¾ cup",
+        "_id": "66ab9af7faab2c39c3e5b351"
+      },
+      {
+        "name": "sugar",
+        "quantity": "½ cup",
+        "_id": "66ab9af7faab2c39c3e5b352"
+      },
+      {
+        "name": "dark chocolate",
+        "quantity": "150 g",
+        "_id": "66ab9af7faab2c39c3e5b353"
+      }
+    ],
+    "time": "2 hr",
+    "servings": 8,
+    "difficulty": "Medium",
+    "imageUrl": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/205175.jpg?resize=600:*&output-format=auto&output-quality=auto",
+    "createdBy": {
+      "_id": "66a8ef00b4bdf5932d4f91c8",
+      "username": "fariaaa",
+      "email": "faria25@gmail.com"
+    },
+    "likesCount": 0,
+    "comments": [],
+    "isPopular": false,
+    "likedUsers": []
+  },
+  {
+    "_id": "66eb2e15ab84513613247365",
+    "name": "Chicken Piccata Casserole",
+    "category": "Lunch",
+    "instructions": [
+      "Heat oil in a large cast-iron skillet over medium-high heat. Toss chicken in a medium bowl with 1/2 teaspoon salt and 1/4 teaspoon pepper until coated. Add the chicken to the pan; cook until golden on both sides, 3 to 5 minutes per side. Transfer to a plate. ",
+      "Add butter and lemon slices to the pan. Cook until lemon is golden on both sides, about 1 minute. Transfer the lemon to the plate with the chicken.",
+      "Add butter and lemon slices to the pan. Cook until lemon is golden on both sides, about 1 minute. Transfer the lemon to the plate with the chicken.",
+      "Add orzo and garlic to the pan. Cook, stirring often, until the garlic is fragrant and the orzo is lightly toasted, 2 to 3 minutes. Add wine; cook, stirring constantly, until mostly absorbed, about 1 minute. Add broth, kale, capers and the remaining 1/4 teaspoon salt. Bring to a boil over high heat; stir. Return the chicken, lemon slices and any accumulated juices to the pan.",
+      "Transfer to the oven and bake, uncovered, until an instant-read thermometer inserted in the thickest piece of chicken registers 165°F and the orzo is tender, about 10 minutes. Sprinkle with parsley."
+    ],
+    "keywords": ["Chicken ", "casserole"],
+    "ingredients": [
+      {
+        "name": "extra-virgin olive oil",
+        "quantity": "1 tablespoon",
+        "_id": "66eb2e15ab84513613247366"
+      },
+      {
+        "name": "boneless, skinless chicken thighs",
+        "quantity": "1 pound",
+        "_id": "66eb2e15ab84513613247367"
+      },
+      {
+        "name": "salt",
+        "quantity": "3/4 tbsp",
+        "_id": "66eb2e15ab84513613247368"
+      },
+      {
+        "name": "ground pepper",
+        "quantity": "1/4 tbsp",
+        "_id": "66eb2e15ab84513613247369"
+      },
+      {
+        "name": "unsalted butter",
+        "quantity": "2 tbsp",
+        "_id": "66eb2e15ab8451361324736a"
+      },
+      { "name": "lemon", "quantity": "1", "_id": "66eb2e15ab8451361324736b" },
+      {
+        "name": "minced garlic",
+        "quantity": "2 tbsp",
+        "_id": "66eb2e15ab8451361324736c"
+      },
+      {
+        "name": "chopped parsley",
+        "quantity": "1 tbsp",
+        "_id": "66eb2e15ab8451361324736d"
+      }
+    ],
+
+    "time": "20 mins",
+    "servings": 4,
+    "difficulty": "Medium",
+    "imageUrl": "https://www.eatingwell.com/thmb/yMc-omrZge4WvdofEtjNWSVHG10=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Chicken-piccata-casserole-3x2-167-f44730f489cc4b9493547de1c76a3b93.jpg",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "comments": [
+      {
+        "commentedBy": "669678649940fc2513256fe0",
+        "comment": "NICE FOOD",
+        "_id": "66eb4e235a7195b28f160298"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66a2ab1eb4523fd107043673"],
+    "likesCount": 1
+  },
+  {
+    "_id": "66abd0304fafaf0f03dd0c25",
+    "name": "Homemade Pizza",
+    "category": "Lunch",
+    "instructions": [
+      "Mix warm water, sugar and yeast together. Let that sit for 5 minutes.",
+      "Add flour and salt to the water, sugar, and yeast. Mix this until smooth and let it raise for 1 hour. I used my kitchen-aid mixer with the dough hook and it was so easy and worked great!",
+      "Prepare the dough for what you will be making and let rest for another 10 minutes before putting into the oven.",
+      "Spread pizza sauce evenly about an inch from the edge. Top with cheese and desired toppings.",
+      "Bake at 400 degrees for 15-20 minutes."
+    ],
+    "keywords": ["Homemade", "yumm"],
+    "ingredients": [
+      {
+        "name": "sugar",
+        "quantity": "1 tsp",
+        "_id": "66abd0304fafaf0f03dd0c26"
+      },
+      {
+        "name": "yeast",
+        "quantity": "1 tbsp",
+        "_id": "66abd0304fafaf0f03dd0c27"
+      },
+      {
+        "name": "flour",
+        "quantity": "1.5 cup",
+        "_id": "66abd0304fafaf0f03dd0c28"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsp",
+        "_id": "66abd0304fafaf0f03dd0c29"
+      },
+      {
+        "name": "water",
+        "quantity": "1 cup",
+        "_id": "66abd0304fafaf0f03dd0c2a"
+      },
+      {
+        "name": "pepperoni",
+        "quantity": "1 cup, finely sliced",
+        "_id": "66abd0304fafaf0f03dd0c2b"
+      },
+      {
+        "name": "button mushroom",
+        "quantity": "1/2 cup, finely sliced",
+        "_id": "66abd0304fafaf0f03dd0c2c"
+      },
+      {
+        "name": "green bell pepper",
+        "quantity": "1/4 cup, finely sliced",
+        "_id": "66abd0304fafaf0f03dd0c2d"
+      },
+      {
+        "name": "italian seasoning",
+        "quantity": "2 tsp",
+        "_id": "66abd0304fafaf0f03dd0c2e"
+      },
+      {
+        "name": "pizza sauce",
+        "quantity": "1/4 cup",
+        "_id": "66abd0304fafaf0f03dd0c2f"
+      },
+      {
+        "name": "parmesan cheese",
+        "quantity": "1/2 cup, shredded",
+        "_id": "66abd0304fafaf0f03dd0c30"
+      },
+      {
+        "name": "mozzarella cheese",
+        "quantity": "1/4 cup, shredded",
+        "_id": "66abd0304fafaf0f03dd0c31"
+      }
+    ],
+    "time": "20 mins",
+    "servings": 6,
+    "difficulty": "Medium",
+    "imageUrl": "https://therecipecritic.com/wp-content/uploads/2019/05/besthomemadepizzahero.jpg",
+    "createdBy": {
+      "_id": "66abb03e4fafaf0f03dd0b30",
+      "username": "theQueen",
+      "email": "rhaenyra@gmail.com"
+    },
+    "likesCount": 3,
+    "comments": [
+      {
+        "commentedBy": "669678649940fc2513256fe0",
+        "comment": "dd",
+        "_id": "66e0e7bd6ec010139a2ef9e5"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "66abb03e4fafaf0f03dd0b30",
+      "66a4f9169b52fadca622c23f"
+    ]
+  },
+  {
+    "_id": "66eb4bc6d9313de6a21e6cfb",
+    "name": "Glazed Donuts",
+    "category": "Desserts",
+    "instructions": [
+      "Buy Donut",
+      "warm glaze",
+      "put glaze",
+      "wait 12mins",
+      "LOOOK FOR GOOD COLOR",
+      "Enjoy"
+    ],
+    "keywords": ["Dessert"],
+    "ingredients": [
+      {
+        "name": "Glazed Donuts",
+        "quantity": "10",
+        "_id": "66eb4bc6d9313de6a21e6cfc"
+      }
+    ],
+    "time": "1",
+    "servings": 23,
+    "difficulty": "Easy",
+    "imageUrl": "http://localhost:5001/recipepictures/2024-9-19_3-52-12_party-donuts-sallys-baking-addiction.webp.webp",
+    "createdBy": {
+      "_id": "669678649940fc2513256fe0",
+      "username": "Ahmed Awsaf",
+      "email": "oneawsaf@gmail.com"
+    },
+    "comments": [
+      {
+        "commentedBy": "669678649940fc2513256fe0",
+        "comment": "KHUB GLAZE HOSSEH VAYA",
+        "_id": "66eb6868f89daf32d98e76dd"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["669678649940fc2513256fe0", "66a4f9169b52fadca622c23f"],
+    "likesCount": 2
+  },
+  {
+    "_id": "66ab97bcfaab2c39c3e5b325",
+    "name": "Mango Lassi Tiramisu",
+    "category": "Desserts",
+    "instructions": [
+      "Bloom the saffron: Add the saffron strands to 2 teaspoons of warm water and let it steep for 15 minutes.",
+      "Prepare the mascarpone mixture: In a large bowl, combine mascarpone cheese, Greek yogurt, mango pulp, heavy whipping cream, powdered sugar, cardamom powder, and the bloomed saffron (including the liquid).",
+      "Using a hand blender, whip the mixture until it thickens and lightens in color, about 5 minutes.",
+      "Assemble the tiramisu: Choose an 8-inch square dish or six 3½-inch square dishes for assembly. Quickly dip each ladyfinger into the cooled chai with coconut milk, ensuring both sides are coated but not soaked.",
+      "Place a layer of dipped ladyfingers at the bottom of your chosen dish. Spread half of the mascarpone mixture over the ladyfinger layer. Add another layer of dipped ladyfingers on top of the mascarpone layer. Spread the remaining mascarpone mixture over the second layer of ladyfingers.",
+      "Cover the dish and refrigerate for at least 6 hours, preferably overnight, to allow the flavors to meld.",
+      "Before serving, dust with the crushed freeze-dried mango and top with fresh mango slices. Garnish with mint leaves, rose buds, and shredded coconut if desired.",
+      "Enjoy!"
+    ],
+    "keywords": ["Dessert", "Mango"],
+    "ingredients": [
+      {
+        "name": " saffron",
+        "quantity": "5 strands",
+        "_id": "66ab97bcfaab2c39c3e5b326"
+      },
+      {
+        "name": "warm water",
+        "quantity": "2 teaspoons ",
+        "_id": "66ab97bcfaab2c39c3e5b327"
+      },
+      {
+        "name": "mascarpone cheese",
+        "quantity": "8 oz",
+        "_id": "66ab97bcfaab2c39c3e5b328"
+      },
+      {
+        "name": "greek yogurt",
+        "quantity": "½ cup",
+        "_id": "66ab97bcfaab2c39c3e5b329"
+      },
+      {
+        "name": "mango pulp",
+        "quantity": "¾ cup",
+        "_id": "66ab97bcfaab2c39c3e5b32a"
+      },
+      {
+        "name": "heavy whipping cream",
+        "quantity": "1.25 cups ",
+        "_id": "66ab97bcfaab2c39c3e5b32b"
+      },
+      {
+        "name": "powdered sugar",
+        "quantity": "5 tablespoons",
+        "_id": "66ab97bcfaab2c39c3e5b32c"
+      },
+      {
+        "name": "cardamom powder",
+        "quantity": "1.5 teaspoons",
+        "_id": "66ab97bcfaab2c39c3e5b32d"
+      },
+      {
+        "name": "Chai with coconut milk",
+        "quantity": "2 cups",
+        "_id": "66ab97bcfaab2c39c3e5b32e"
+      },
+      {
+        "name": "ladyfingers",
+        "quantity": "1 (13.25-ounce) package",
+        "_id": "66ab97bcfaab2c39c3e5b32f"
+      },
+      {
+        "name": "mangoes, peeled and sliced",
+        "quantity": "3",
+        "_id": "66ab97bcfaab2c39c3e5b330"
+      }
+    ],
+    "time": "1 hr 20 min",
+    "servings": 6,
+    "difficulty": "Medium",
+    "imageUrl": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/499576.jpg?resize=600:*&output-format=auto&output-quality=auto",
+    "createdBy": {
+      "_id": "66a8ef00b4bdf5932d4f91c8",
+      "username": "fariaaa",
+      "email": "faria25@gmail.com"
+    },
+    "likesCount": 0,
+    "comments": [],
+    "isPopular": false,
+    "likedUsers": []
+  },
+  {
+    "_id": "66abe80b827dabd91c514d46",
+    "name": "Chocolate Crepes",
+    "category": "Breakfast",
+    "instructions": [
+      "Sift flour and cocoa into a bowl. Stir in sugar. Whisk egg, oil and milk together in a jug. Gradually add egg mixture to flour mixture, whisking until smooth and combined. Cover. Set aside for 30 minutes.",
+      "Spray an 18cm (base) non-stick frying pan with oil. Heat over medium heat. Pour 1/4 cup batter into pan. Swirl to cover base. Cook for 2 minutes or until light golden. Turn. Cook for 1 minute. Transfer to a plate. Cover to keep warm. Repeat with remaining mixture to make 8 crepes.",
+      "Make sauce Place chocolate and cream in a saucepan over low heat. Cook and smooth. Remove from heat. Stir in coconut and cherries. Set aside for 10 minutes to thicken slightly.",
+      "Serve crepes with sauce and Cherry Ripe."
+    ],
+    "keywords": ["Chocolate", "crepes"],
+    "ingredients": [
+      {
+        "name": "plain flour",
+        "quantity": "1/2 cup",
+        "_id": "66abe80b827dabd91c514d47"
+      },
+      {
+        "name": "cocoa powder",
+        "quantity": "1/4 cup",
+        "_id": "66abe80b827dabd91c514d48"
+      },
+      {
+        "name": "caster sugar",
+        "quantity": "2 tsp",
+        "_id": "66abe80b827dabd91c514d49"
+      },
+      {
+        "name": "eggs, lightly beaten",
+        "quantity": "3",
+        "_id": "66abe80b827dabd91c514d4a"
+      },
+      {
+        "name": "vegetable oil",
+        "quantity": "2 tbsp",
+        "_id": "66abe80b827dabd91c514d4b"
+      },
+      {
+        "name": "milk",
+        "quantity": "3/4 cup",
+        "_id": "66abe80b827dabd91c514d4c"
+      },
+      {
+        "name": "canola oil",
+        "quantity": "spray",
+        "_id": "66abe80b827dabd91c514d4d"
+      },
+      {
+        "name": "cherry ripe chocolate bar, chopped",
+        "quantity": "55g",
+        "_id": "66abe80b827dabd91c514d4e"
+      },
+      {
+        "name": "dark chocolate, chopped",
+        "quantity": "150g",
+        "_id": "66abe80b827dabd91c514d4f"
+      },
+      {
+        "name": "thickened cream",
+        "quantity": "1/2 cup",
+        "_id": "66abe80b827dabd91c514d50"
+      },
+      {
+        "name": "shredded coconut",
+        "quantity": "1/4 cup",
+        "_id": "66abe80b827dabd91c514d51"
+      },
+      {
+        "name": "red glace cherries, halved",
+        "quantity": "1/4 cup",
+        "_id": "66abe80b827dabd91c514d52"
+      }
+    ],
+
+    "time": "30 mins",
+    "servings": 4,
+    "difficulty": "Easy",
+    "imageUrl": "https://www.theflavorbender.com/wp-content/uploads/2021/01/Chocolate-Crepes-0611.jpg",
+    "createdBy": {
+      "_id": "66abcd4a827dabd91c514b72",
+      "username": "Eqra",
+      "email": "zarinsara3@gmail.com"
+    },
+    "likesCount": 4,
+    "comments": [
+      {
+        "commentedBy": "66e1a1633ec6c9951a5c1584",
+        "comment": "perfect breakfast!",
+        "_id": "66e1b5026408b0a153220fd2"
+      },
+      {
+        "commentedBy": "66e1d9ac6408b0a153221bcc",
+        "comment": "crunchy!",
+        "_id": "66e1db9b6408b0a153222076"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "66abb03e4fafaf0f03dd0b30",
+      "66e1a1633ec6c9951a5c1584",
+      "66e1d9ac6408b0a153221bcc"
+    ]
+  },
+  {
+    "_id": "66a5024c3c5af99fc491ff63",
+    "name": "Chocolate Chip Cookies",
+    "category": "Desserts",
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a large bowl, cream together the butter, sugar, and brown sugar until smooth.",
+      "Beat in the eggs one at a time, then stir in the vanilla.",
+      "Combine flour, baking soda, and salt; gradually stir into the creamed mixture.",
+      "Fold in the chocolate chips.",
+      "Drop by large spoonfuls onto ungreased baking sheets.",
+      "Bake for about 10 minutes, or until edges are nicely browned.",
+      "Cool on wire racks."
+    ],
+    "keywords": ["cookies", "chocolate", "baking"],
+    "ingredients": [
+      {
+        "_id": "67fa2bbc6ac5026904c44c7d",
+        "name": "Butter",
+        "quantity": "1 cup"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c7e",
+        "name": "Granulated sugar",
+        "quantity": "1 cup"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c7f",
+        "name": "Brown sugar",
+        "quantity": "1 cup"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c80",
+        "name": "Eggs",
+        "quantity": "2 large"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c81",
+        "name": "Vanilla extract",
+        "quantity": "1 tsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c82",
+        "name": "All-purpose flour",
+        "quantity": "3 cups"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c83",
+        "name": "Baking soda",
+        "quantity": "1 tsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c84",
+        "name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "_id": "67fa2bbc6ac5026904c44c85",
+        "name": "Chocolate chips",
+        "quantity": "2 cups"
+      }
+    ],
+
+    "time": "10 mins",
+    "servings": 24,
+    "difficulty": "Medium",
+    "imageUrl": "https://sugarspunrun.com/wp-content/uploads/2016/03/worst-cookies-use-this-one-1-of-1.jpg",
+    "createdBy": {
+      "_id": "66a4f9169b52fadca622c23f",
+      "username": "ZarinSara",
+      "email": "zarin@gmail.com"
+    },
+    "likesCount": 1,
+    "comments": [
+      {
+        "commentedBy": "66e285b955e31c84dba43c9a",
+        "comment": "yum!",
+        "_id": "66e2865355e31c84dba43f3f"
+      }
+    ],
+    "isPopular": false,
+    "likedUsers": ["66e285b955e31c84dba43c9a"]
+  },
+  {
+    "_id": "66ab9dc2faab2c39c3e5b407",
+    "name": "Tomato, And Avocado Salad",
+    "category": "Lunch",
+    "instructions": [
+      "Slice then dice cucumber.",
+      "Slice then dice tomatoes.",
+      "Slice avocado and carefully remove stone. Scoop out inside and dice.",
+      "Peel onion and remove tops. Then slice.",
+      "Chop cilantro and place in a large salad bowl with previous ingredients.",
+      "Toss with olive oil, lemon juice, salt and pepper. Serve in a bowl.",
+      "Enjoy!"
+    ],
+    "keywords": ["Salads"],
+    "ingredients": [
+      {
+        "name": "english cucumber, diced",
+        "quantity": "1",
+        "_id": "66ab9dc2faab2c39c3e5b408"
+      },
+      {
+        "name": "roma tomatoes, diced",
+        "quantity": "4",
+        "_id": "66ab9dc2faab2c39c3e5b409"
+      },
+      {
+        "name": "ripe avocados, diced",
+        "quantity": "3",
+        "_id": "66ab9dc2faab2c39c3e5b40a"
+      },
+      {
+        "name": "red onion, diced",
+        "quantity": "½ ",
+        "_id": "66ab9dc2faab2c39c3e5b40b"
+      },
+      {
+        "name": "fresh cilantro, chopped",
+        "quantity": "10 g",
+        "_id": "66ab9dc2faab2c39c3e5b40c"
+      },
+      {
+        "name": "lemon, juiced",
+        "quantity": "1",
+        "_id": "66ab9dc2faab2c39c3e5b40d"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "quantity": "2 tablespoons",
+        "_id": "66ab9dc2faab2c39c3e5b40e"
+      },
+      {
+        "name": "Salt and Pepper",
+        "quantity": "To taste",
+        "_id": "66ab9dc2faab2c39c3e5b40f"
+      }
+    ],
+    "time": "30 min",
+    "servings": 2,
+    "difficulty": "Easy",
+    "imageUrl": "https://img.buzzfeed.com/video-api-prod/assets/c0e43511da3f428bab75f6991b543e63/BFV6678_HealthyCucumberTomatoAndAvocadoSalad-Thumb1080B.jpg?resize=600:*&output-format=auto&output-quality=auto",
+    "createdBy": {
+      "_id": "66a8ef00b4bdf5932d4f91c8",
+      "username": "fariaaa",
+      "email": "faria25@gmail.com"
+    },
+    "likesCount": 3,
+    "comments": [
+      {
+        "commentedBy": "66a4f9169b52fadca622c23f",
+        "comment": "yum",
+        "_id": "66ae796db608306015966209"
+      },
+      {
+        "commentedBy": "669678649940fc2513256fe0",
+        "comment": "Darun <3",
+        "_id": "66d8a3d1984b8a104cc486fd"
+      }
+    ],
+
+    "isPopular": false,
+    "likedUsers": [
+      "66a7e62acd3fb745398ad70c",
+      "669678649940fc2513256fe0",
+      "66a4f9169b52fadca622c23f"
+    ]
+  }
+]
