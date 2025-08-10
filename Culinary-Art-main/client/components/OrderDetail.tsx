@@ -199,15 +199,15 @@ export default function OrderDetail({ order }: { order: Order | AdminOrder }) {
                     {item.productId.name}
                   </p>
                   <p className="text-xs text-muted-foreground">
-                    Price/{item.productId.unit}: Tk{" "}
-                    {item.currentUnitPrice.toLocaleString()}
+                            Price/{item.productId.unit}: ₹{" "}
+        {item.currentUnitPrice.toLocaleString()}
                   </p>
                   <p className="text-xs text-muted-foreground">
                     Quantity: {item.quantity} {item.productId.unit}
                   </p>
                 </div>
                 <div className="text-sm font-medium text-right whitespace-nowrap">
-                  Tk {(item.currentUnitPrice * item.quantity).toLocaleString()}
+                  ₹ {(item.currentUnitPrice * item.quantity).toLocaleString()}
                 </div>
               </div>
             ))}
@@ -218,17 +218,17 @@ export default function OrderDetail({ order }: { order: Order | AdminOrder }) {
           <div className="space-y-1 text-sm">
             <div className="flex justify-between">
               <span className="text-muted-foreground">Subtotal:</span>
-              <span>Tk {subtotal.toLocaleString()}</span>
+                              <span>₹ {subtotal.toLocaleString()}</span>
             </div>
             <div className="flex justify-between">
               <span className="text-muted-foreground">Delivery Charge:</span>
-              <span>Tk {deliveryCharge.toLocaleString()}</span>
+                              <span>₹ {deliveryCharge.toLocaleString()}</span>
             </div>
             <Separator className="my-1.5" />
             <div className="flex justify-between font-semibold text-base">
               <span>Total Amount:</span>
               <span className="text-primary">
-                Tk {totalAmount.toLocaleString()}
+                ₹ {totalAmount.toLocaleString()}
               </span>
             </div>
           </div>

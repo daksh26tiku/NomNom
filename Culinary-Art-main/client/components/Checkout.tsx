@@ -316,7 +316,7 @@ export default function Checkout({ user }: { user: UserInfo }) {
                               </div>
                             </div>
                             <p className="font-medium text-sm whitespace-nowrap place-self-end">
-                              Tk {(item.price * item.quantity).toLocaleString()}
+                              ₹ {(item.price * item.quantity).toLocaleString()}
                             </p>
                           </div>
                         ))}
@@ -327,18 +327,18 @@ export default function Checkout({ user }: { user: UserInfo }) {
                           <span className="text-muted-foreground">
                             Subtotal:
                           </span>
-                          <span>Tk {subtotal.toLocaleString()}</span>
+                          <span>₹ {subtotal.toLocaleString()}</span>
                         </div>
                         <div className="flex justify-between">
                           <span className="text-muted-foreground">
                             Delivery:
                           </span>
-                          <span>Tk {deliveryCharge.toLocaleString()}</span>
+                          <span>₹ {deliveryCharge.toLocaleString()}</span>
                         </div>
                         <Separator className="my-2 bg-border/60" />
                         <div className="flex justify-between font-semibold text-base">
                           <span>Total Amount:</span>
-                          <span>Tk {totalPrice.toLocaleString()}</span>
+                          <span>₹ {totalPrice.toLocaleString()}</span>
                         </div>
                       </div>
                     </CardContent>
@@ -375,7 +375,7 @@ export default function Checkout({ user }: { user: UserInfo }) {
                               Delivery. <br />
                               Total amount due:{" "}
                               <span className="font-bold">
-                                Tk {totalPrice.toLocaleString()}
+                                ₹ {totalPrice.toLocaleString()}
                               </span>
                               . <br />
                               Please ensure your address and phone number are

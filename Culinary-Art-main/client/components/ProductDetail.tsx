@@ -65,7 +65,7 @@ export default function ProductDetail({ product }: { product: Product }) {
             </Badge>
             <h1 className="text-3xl font-bold">{product.name}</h1>
             <div className="mt-2 text-2xl font-semibold">
-              &#2547; {product.price.toLocaleString("en-US")}
+              ₹ {product.price.toLocaleString("en-IN")}
               <span className="text-sm text-muted-foreground ml-1">
                 / {product.unit}
               </span>

@@ -233,8 +233,8 @@ export default function ProductFilter({
                 {(priceRangeValue[0] > priceRange.min ||
                   priceRangeValue[1] < priceRange.max) && (
                   <Badge variant="outline" className="flex items-center gap-1">
-                    Price: &#2547; {priceRangeValue[0]} - &#2547;{" "}
-                    {priceRangeValue[1]}
+                                Price: ₹ {priceRangeValue[0]} - ₹{" "}
+            {priceRangeValue[1]}
                     <Button
                       variant="ghost"
                       size="icon"
@@ -339,7 +339,7 @@ export default function ProductFilter({
           <div className="flex items-center justify-between">
             <h4 className="font-medium text-sm">Price Range</h4>
             <span className="text-sm text-muted-foreground">
-              &#2547; {priceRangeValue[0]} - &#2547; {priceRangeValue[1]}
+              ₹ {priceRangeValue[0]} - ₹ {priceRangeValue[1]}
             </span>
           </div>
           <Slider
@@ -353,11 +353,11 @@ export default function ProductFilter({
           />
           <div className="flex items-center justify-between">
             <div className="text-sm text-muted-foreground">
-              &#2547; {priceRange.min}
+              ₹ {priceRange.min}
             </div>
-            <div className="text-sm text-muted-foreground">
-              &#2547; {priceRange.max}
-            </div>
+                          <div className="text-sm text-muted-foreground">
+                ₹ {priceRange.max}
+              </div>
           </div>
         </div>
       </CardContent>

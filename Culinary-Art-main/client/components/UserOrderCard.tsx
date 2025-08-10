@@ -161,7 +161,7 @@ export default function UserOrderCard({ order }: { order: Order }) {
           <div className="text-left sm:text-right w-full sm:w-auto mt-3 sm:mt-0">
             <p className="text-xs text-muted-foreground">Total Amount</p>
             <p className="text-xl lg:text-2xl font-semibold text-primary">
-              Tk {totalAmount.toLocaleString()}
+              ₹ {totalAmount.toLocaleString()}
             </p>
           </div>
         </div>

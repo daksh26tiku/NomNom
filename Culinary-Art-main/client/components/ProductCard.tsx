@@ -72,7 +72,7 @@ export default function ProductCard({ product }: Props) {
 
       <CardFooter className="flex flex-col gap-4 mt-auto items-start">
         <div className="font-semibold place-self-end">
-          &#2547; {product.price.toLocaleString("en-US")}
+          ₹ {product.price.toLocaleString("en-IN")}
           <span className="text-xs text-muted-foreground ml-1">
             / {product.unit}
           </span>

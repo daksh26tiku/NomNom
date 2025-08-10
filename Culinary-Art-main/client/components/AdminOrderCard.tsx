@@ -314,7 +314,7 @@ export default function AdminOrderCard({ order }: { order: AdminOrder }) {
 
         // Quantity and price on same line
         const qtyText = `   ${item.quantity} ${item.productId.unit}`;
-        const priceText = `Tk ${(
+        const priceText = `₹ ${(
           item.currentUnitPrice * item.quantity
         ).toLocaleString()}`;
 
@@ -334,7 +334,7 @@ export default function AdminOrderCard({ order }: { order: AdminOrder }) {
         else doc.setFont("courier", "normal");
 
         const labelText = label;
-        const amountText = `Tk ${amount.toLocaleString()}`;
+        const amountText = `₹ ${amount.toLocaleString()}`;
 
         doc.text(labelText, margin, yPos);
         const amountWidth = doc.getTextWidth(amountText);
@@ -539,7 +539,7 @@ export default function AdminOrderCard({ order }: { order: AdminOrder }) {
           <div className="text-left sm:text-right w-full sm:w-auto mt-3 sm:mt-0">
             <p className="text-xs text-muted-foreground">Total Amount</p>
             <p className="text-xl lg:text-2xl font-semibold text-primary">
-              Tk {totalAmount.toLocaleString()}
+              ₹ {totalAmount.toLocaleString()}
             </p>
           </div>
         </div>
@@ -560,10 +560,9 @@ export default function AdminOrderCard({ order }: { order: AdminOrder }) {
                       (Qty: {item.quantity} {item.productId.unit})
                     </span>
                   </span>
-                  <span className="text-muted-foreground font-medium">
-                    Tk{" "}
-                    {(item.currentUnitPrice * item.quantity).toLocaleString()}
-                  </span>
+                                      <span className="text-muted-foreground font-medium">
+                      ₹ {(item.currentUnitPrice * item.quantity).toLocaleString()}
+                    </span>
                 </div>
               ))}
               {items.length > firstFewItemsForTextPreview.length && (

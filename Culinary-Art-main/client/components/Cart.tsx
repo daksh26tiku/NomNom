@@ -93,7 +93,7 @@ export default function Cart() {
           <div className="flex justify-between items-center mb-4">
             <span className="font-semibold">Total:</span>
             <span className="font-semibold">
-              Tk {cartTotalPrice.toLocaleString("en-US")}
+              ₹ {cartTotalPrice.toLocaleString("en-IN")}
             </span>
           </div>
 
