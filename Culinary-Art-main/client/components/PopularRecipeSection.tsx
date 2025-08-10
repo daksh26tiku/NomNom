@@ -27,7 +27,7 @@ export default function PopularRecipeSection({
             delay: 2000,
             stopOnInteraction: false,
             stopOnMouseEnter: true,
-          }),
+          }) as any,
         ]}
         className="max-w-[280px] md:max-w-2xl lg:max-w-4xl xl:max-w-6xl mx-auto my-8"
       >
