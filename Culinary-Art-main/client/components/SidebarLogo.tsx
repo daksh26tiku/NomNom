@@ -34,7 +34,7 @@ export function SidebarLogo({ session }: { session: JWTPayload }) {
             <ChefHat className="size-4" />
           </div>
           <div className="grid flex-1 text-left text-sm leading-tight">
-            <span className="truncate font-semibold">Culinary Art</span>
+            <span className="truncate font-semibold">NomNom</span>
             <span className="truncate text-xs">
               {(session as JWTPayload).role === "customer"
                 ? "User account"

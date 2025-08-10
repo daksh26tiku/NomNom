@@ -112,7 +112,7 @@ export default function LoginForm() {
         <CardTitle className="text-2xl md:text-3xl font-bold">
           Welcome back
         </CardTitle>
-        <CardDescription>Login with your Culinary Art account</CardDescription>
+                  <CardDescription>Login with your NomNom account</CardDescription>
       </CardHeader>
       <CardContent>
         <Form {...userForm}>

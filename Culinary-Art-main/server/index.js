@@ -17,7 +17,7 @@ async function main() {
   console.log("Connected to MongoDB Successfully!");
 
   app.get("/", (req, res) => {
-    res.send("Culinary Art server is running:!");
+    res.send("NomNom server is running:!");
   });
 
   //routes
@@ -34,7 +34,7 @@ async function main() {
   //   app.use("/api/minimart", ProductsRoutes);
 
   app.listen(port, () => {
-    console.log(`Culinary Art server listening on port ${port}`);
+    console.log(`NomNom server listening on port ${port}`);
   });
 }
 

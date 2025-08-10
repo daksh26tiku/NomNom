@@ -48,7 +48,7 @@ export default function MobileNavbar({
         href={pathName === "/" ? "#home" : "/"}
       >
         <ChefHat className="h-5 w-5" />
-        <p className="text-2xl font-semibold">Culinary Art</p>
+                    <p className="text-2xl font-semibold">NomNom</p>
       </Link>
 
       <Drawer open={isOpen} onOpenChange={setIsOpen}>

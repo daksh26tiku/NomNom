@@ -25,7 +25,7 @@ async function connectToDatabase() {
 }
 
 app.get("/", (req, res) => {
-  res.send("Culinary Art server is running!");
+  res.send("NomNom server is running!");
 });
 
 // Routes

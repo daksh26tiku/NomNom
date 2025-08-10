@@ -19,7 +19,7 @@ const userSchema = new mongoose.Schema(
     imageUrl: {
       type: String,
       default:
-        "https://zaaopnogqwbkasyujppf.supabase.co/storage/v1/object/public/culinary-art/users/default-user-logo.png",
+        "https://zaaopnogqwbkasyujppf.supabase.co/storage/v1/object/public/nomnom/users/default-user-logo.png",
     },
 
     bio: {

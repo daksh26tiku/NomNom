@@ -23,7 +23,7 @@ export default async function UserSidebarWrapper() {
           className="flex justify-center gap-2 text-primary items-center mt-4"
         >
           <ChefHat className="h-5 w-5" />
-          <p className="text-2xl font-semibold">Culinary Art</p>
+          <p className="text-2xl font-semibold">NomNom</p>
         </Link> */}
         <SidebarLogo session={session as JWTPayload} />
       </SidebarHeader>

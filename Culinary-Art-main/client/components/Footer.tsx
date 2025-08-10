@@ -15,7 +15,7 @@ export default async function Footer() {
           <div className="space-y-4">
             <Link href="/" className="text-primary flex gap-1 items-center">
               <ChefHat className="h-5 w-5" />
-              <p className="text-2xl font-semibold">Culinary Art</p>
+              <p className="text-2xl font-semibold">NomNom</p>
             </Link>
 
             <p className="text-muted-foreground">
@@ -109,7 +109,7 @@ export default async function Footer() {
         <div className="mt-12 border-t pt-8">
           <div className="flex flex-col items-center justify-center gap-4 md:flex-row">
             <p className="text-center text-sm text-muted-foreground">
-              © {new Date().getFullYear()} Culinary Art. All rights reserved.
+              © {new Date().getFullYear()} NomNom. All rights reserved.
             </p>
           </div>
         </div>

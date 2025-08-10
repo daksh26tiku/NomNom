@@ -13,7 +13,7 @@ import {
 import Link from "next/link"; // For the CTA button
 
 export default function AboutUsPage() {
-  const websiteName = "Culinary Art";
+  const websiteName = "NomNom";
 
   return (
     <div>

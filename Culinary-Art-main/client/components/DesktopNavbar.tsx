@@ -49,7 +49,7 @@ export default function DesktopNavbar({
         } flex gap-1 items-center`}
       >
         <ChefHat className="h-5 w-5" />
-        <p className="text-2xl font-semibold">Culinary Art</p>
+                    <p className="text-2xl font-semibold">NomNom</p>
       </Link>
 
       <div className="flex gap-10 text-md font-medium">

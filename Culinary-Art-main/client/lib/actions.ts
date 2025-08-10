@@ -98,10 +98,10 @@ export async function uploadRecipeImage(file: File) {
   try {
     const recipeImgName = `${Math.random()}-${file.name}`.replaceAll("/", "");
 
-    const recipeImgUrl = `${process.env.SUPABASE_URL}/storage/v1/object/public/culinary-art/recipes/${recipeImgName}`;
+    const recipeImgUrl = `${process.env.SUPABASE_URL}/storage/v1/object/public/nomnom/recipes/${recipeImgName}`;
 
     const { error: uploadError } = await supabase.storage
-      .from("culinary-art")
+      .from("nomnom")
       .upload(`recipes/${recipeImgName}`, file);
 
     if (uploadError) throw uploadError;
@@ -119,10 +119,10 @@ export async function uploadProductImage(file: File) {
   try {
     const productImgName = `${Math.random()}-${file.name}`.replaceAll("/", "");
 
-    const productImgUrl = `${process.env.SUPABASE_URL}/storage/v1/object/public/culinary-art/products/${productImgName}`;
+    const productImgUrl = `${process.env.SUPABASE_URL}/storage/v1/object/public/nomnom/products/${productImgName}`;
 
     const { error: uploadError } = await supabase.storage
-      .from("culinary-art")
+      .from("nomnom")
       .upload(`products/${productImgName}`, file);
 
     if (uploadError) throw uploadError;
@@ -140,10 +140,10 @@ export async function uploadUserImage(file: File) {
   try {
     const UserImgName = `${Math.random()}-${file.name}`.replaceAll("/", "");
 
-    const userImgUrl = `${process.env.SUPABASE_URL}/storage/v1/object/public/culinary-art/users/${UserImgName}`;
+    const userImgUrl = `${process.env.SUPABASE_URL}/storage/v1/object/public/nomnom/users/${UserImgName}`;
 
     const { error: uploadError } = await supabase.storage
-      .from("culinary-art")
+      .from("nomnom")
       .upload(`users/${UserImgName}`, file);
 
     if (uploadError) throw uploadError;

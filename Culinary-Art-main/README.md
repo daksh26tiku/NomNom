@@ -1,15 +1,15 @@
-# <img src="client/public/favicon.svg" alt="Culinary Art Logo" height="32" width="32" style="vertical-align: middle;"> Culinary Art
+# <img src="client/public/favicon.svg" alt="NomNom Logo" height="32" width="32" style="vertical-align: middle;"> NomNom
 
-**Culinary Art** is a modern web platform for food lovers to share, discover, and celebrate recipes from around the world. Whether you’re a home cook, a professional chef, or just love exploring new dishes, Culinary Art is your digital kitchen and recipe book.
+**NomNom** is a modern web platform for food lovers to share, discover, and celebrate recipes from around the world. Whether you're a home cook, a professional chef, or just love exploring new dishes, NomNom is your digital kitchen and recipe book.
 
-### 🚀 VISIT LIVE DEMO _[HERE](https://culinary-art.vercel.app/)_
+### 🚀 VISIT LIVE DEMO _[HERE](https://nomnom.vercel.app/)_
 
 **N.B.: _Backend/API is hosted at render.com on free tier. So, it goes inactive after 15 minutes of inactivity. So, if you see something loading, please wait for 15-30 seconds😉._**
 
 ## 👀 Sneak Peek
 
-<img src="client/public/culinary-art-recipes.png" alt="Culinary Art Home page">
-<img src="client/public/culinary-art-shop.png" alt="Culinary Art Home page">
+<img src="client/public/nomnom-recipes.png" alt="NomNom Home page">
+<img src="client/public/nomnom-shop.png" alt="NomNom Home page">
 
 ## ⚙️ Features
 

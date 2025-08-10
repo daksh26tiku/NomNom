@@ -103,7 +103,7 @@ export default function AdminOrderCard({ order }: { order: AdminOrder }) {
   //       <ThermalPrinter type="epson" width={48}>
   //         {/* Header */}
   //         <Text size={{ width: 2, height: 2 }} align="center" bold>
-  //           CULINARY ART
+          //           NOMNOM
   //         </Text>
   //         <Text align="center">Order Receipt</Text>
   //         <Text>--------------------------------</Text>
@@ -226,7 +226,7 @@ export default function AdminOrderCard({ order }: { order: AdminOrder }) {
 
       // Header
       doc.setFont("courier", "bold");
-      centerText("CULINARY ART", yPos, 14);
+              centerText("NOMNOM", yPos, 14);
       yPos += 20;
 
       doc.setFont("courier", "normal");

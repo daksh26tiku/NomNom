@@ -1,6 +1,6 @@
    const mongoose = require('mongoose');
    
-   mongoose.connect('mongodb://localhost:27017/culinary-art').then(async () => {
+   mongoose.connect('mongodb://localhost:27017/nomnom').then(async () => {
      try {
        const User = require('./src/models/UserModel');
        const users = await User.find({});

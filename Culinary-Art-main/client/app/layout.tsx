@@ -12,7 +12,7 @@ const bricolage = Bricolage_Grotesque({
 });
 
 export const metadata: Metadata = {
-  title: "Culinary Art",
+  title: "NomNom",
   description:
     "Unleash your inner chef. Upload your favorite recipes, explore mouth-watering dishes, and connect with a community of food lovers. Rate, comment, and share your favorite meals with the world.",
 };

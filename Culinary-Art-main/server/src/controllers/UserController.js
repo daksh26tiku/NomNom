@@ -37,10 +37,10 @@ const signUpVerification = async (req, res) => {
     const mailOptions = {
       from: process.env.EMAIL,
       to: email,
-      subject: `${otp} Culinary Art signup OTP`,
+      subject: `${otp} NomNom signup OTP`,
       html: `
     <div style="font-family: sans-serif; padding: 20px; max-width: 600px; margin: 0 auto;">
-      <h2 style="color: #f97316;">Welcome to Culinary Art!</h2>
+      <h2 style="color: #f97316;">Welcome to NomNom!</h2>
       <p>Hello ${firstName},</p>
       <p>Thank you for signing up. Please use the following verification code to complete your registration:</p>
       <div style="background: #fff4e6; padding: 20px; border-radius: 8px; margin-top: 20px; margin-bottom: 20px; text-align: center;">
@@ -91,10 +91,10 @@ const forgetPassVerification = async (req, res) => {
     const mailOptions = {
       from: process.env.EMAIL,
       to: email,
-      subject: `${otp} Culinary Art reset password OTP`,
+      subject: `${otp} NomNom reset password OTP`,
       html: `
     <div style="font-family: sans-serif; padding: 20px; max-width: 600px; margin: 0 auto;">
-      <h2 style="color: #f97316;">For updating your Culinary Art password</h2>
+      <h2 style="color: #f97316;">For updating your NomNom password</h2>
       <p>Hello ${existingUser.fullName.split(" ")[0]},</p>
       <p>Please use the following verification code to reset your account password:</p>
       <div style="background: #fff4e6; padding: 20px; border-radius: 8px; margin-top: 20px; margin-bottom: 20px; text-align: center;">
