@@ -2,7 +2,7 @@
 
 **NomNom** is a modern web platform for food lovers to share, discover, and celebrate recipes from around the world. Whether you're a home cook, a professional chef, or just love exploring new dishes, NomNom is your digital kitchen and recipe book.
 
-### 🚀 VISIT LIVE DEMO _[HERE](https://nomnom.vercel.app/)_
+### 🚀 VISIT LIVE DEMO _[HERE](https://nom-nom-lovat.vercel.app/)_
 
 **N.B.: _Backend/API is hosted at render.com on free tier. So, it goes inactive after 15 minutes of inactivity. So, if you see something loading, please wait for 15-30 seconds😉._**
 
