@@ -4,12 +4,7 @@
 
 ### 🚀 VISIT LIVE DEMO _[HERE](https://nom-nom-lovat.vercel.app/)_
 
-**N.B.: _Backend/API is hosted at render.com on free tier. So, it goes inactive after 15 minutes of inactivity. So, if you see something loading, please wait for 15-30 seconds😉._**
-
-## 👀 Sneak Peek
-
-<img src="client/public/nomnom-recipes.png" alt="NomNom Home page">
-<img src="client/public/nomnom-shop.png" alt="NomNom Home page">
+**N.B.: _Backend/API is hosted at render.com on free tier. So, it goes inactive after 15 minutes of inactivity. So, if you see something loading, please wait for 15-30 seconds._**
 
 ## ⚙️ Features
 
